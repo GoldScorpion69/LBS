@@ -40,7 +40,7 @@ Then start the game and exit when you see the main menu (New Game, etc)
 
 ### Using Wabbajack
 
-First get the latest version of LSM from https://github.com/erri120/lotus/releases.
+First get the latest version of LSM from https://drive.google.com/drive/folders/19cui-oVdXXTHIhcl8n6wfeq9D0CJQMKR.
 
 Download it to wherever you keep your downloads.
 
