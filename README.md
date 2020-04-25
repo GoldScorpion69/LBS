@@ -2,73 +2,49 @@
 
 **This Modlist contains mods with sexual content and you need to be of legal age in your country (most western countries: 18+, some eastern ones: 21+)**.
 
-Hello, my callsign is Cacophony and I got into modding as a teenager purely for the purposes of applying nudity. For a long time that was my only goal... until the modding communities surrounding Skyrim evolved. From there I branched out, building the TUCOGUIDE, Lexy, morphing Lexy into LOTD Plus, and finally discovering Wabbajack and spending almost all of my time either starting a new list or changing one I or someone else had made. With the discovery of Lover's Lab, I found out through much pain and torture that usually porn doesn't work well with playing Skyrim and playing Skyrim doesn't mesh well with playing porn and I lacked the skill to change that. So I solved it by simply paring back my ambitions.
+Hello, my name is Cacophony and I got into modding as a teenager purely for the purposes of applying nudity. For a long time that was my only goal... until the modding communities surrounding Skyrim evolved. From there I branched out, building the TUCOGUIDE, Lexy, morphing Lexy into LOTD Plus, and finally discovering Wabbajack and spending almost all of my time either starting a new list or changing one I or someone else had made. With the discovery of Lover's Lab, I found out through much pain and torture that usually porn doesn't work well with playing Skyrim and playing Skyrim doesn't mesh well with playing porn and I lacked the skill to change that. So I solved it by simply paring back my ambitions.
 
 If you want the gist of what this horribly cribbed modlist is, it grew out of the two most common questions I heard in the Lexy Discord's NSFW channel: how do I add SexLab to this? And: how do I switch the body to CBBE? I quickly came to realize that you don't do either of these things... unless you want a broken list that would have been more easily built from the ground up. So I did just that, keeping the parts of Lexy that I liked (which was the vast majority of it), throwing in a few other things to the mix, and adding some options to sex things up for both male and female characters. Hopefully this will take the heat off other modlist authors Discord channels and maybe even tide us over until erri120 gets around to finishing Lotus and we can descend into the pure depravity we all crave. Without further ado I present to you the Light Sexy Modlist: Please Stop Bothering Other Modlist Authors Edition.
 
 ## Requirements
 
-- [Nexus Premium Account](https://forums.nexusmods.com/index.php?/store/category/1-premium-membership/)
-- [LoversLab Account](https://www.loverslab.com/)
+It's recommended that you sign up for a Premium account on Nexus for five bucks a month (http://nexusmods.com)
 
-You can also install any Wabbajack Modlist without a Nexus Premium account but you will have to download each file manually. 
+Otherwise you'll have to download every file manually and put it in the right folder.
+
+Also you'll need a Lover's Lab account (http://loverslab.com)
 
 ### System Specs
 
-A note here. I use a 1080p monitor and I suspect the vast majority looking to play Skyrim in this day and age do too. So this modlist is geared toward two things: low VRAM usage and quick load times. You shouldn't need more than a decent CPU and GPU from the last 5 years along with 8 GB VRAM and maybe 16 GB RAM (might could get away with 8). Strongly recommended is a solid state drive with at least 100 GB for the game itself and 50GB for the downloads (unless you never plan to update).
-
-## Installation
-
-This section was stolen from Lotus. Sorry, erri.
+A note here. I use a 1080p monitor and I suspect the vast majority looking to play Skyrim in this day and age do too. So this modlist is geared toward two things: low VRAM usage and quick load times. You shouldn't need more than a midrange CPU and GPU from the last 5 years along with 8 GB VRAM and maybe 16 GB RAM (might could get away with 8). Strongly recommended is a solid state drive with at least 100 GB for the game itself and 50GB for the downloads (unless you never plan to update). This is not because load times are terrible on an HDD. Hashing with WJ for updates is a pain though.
 
 ### Pre-Installation
 
-These steps are only needed if you install this Modlist for the first time. If you update the Modlist, jump straight to [Updating](#updating).
+These steps are only needed if you install this Modlist for the first time.
 
-#### Steam Config
+##### Change some Steam stuff
 
-##### Disable the Steam Overlay
-
-The Steam Overlay can cause issues with ENB and is recommended to be turned off.
-
-Open the Properties window (right click the game in your Library->Properties), navigate to the _General_ tab and un-tick the _Enable the Steam Overlay while in-game_ checkbox.
-
-##### Change Steams Update Behavior
-
-SSE is still being updated by Bethesda (they only add Creation Club content). Whenever the game updates, the entire modding community goes silent for the next one or two weeks because some mods need to be updated to the latest game runtime version.
-
-To ensure that Steam does not automatically updates the game for you, head over to the Properties window, navigate to the _Updates_ tab and change _Automatic updates_ to _Only update this game when I launch it_. You should also disable the Steam Cloud while you're at it.
-
-##### Set the Game language to English
-
-Wabbajack will check your game files and make sure that we have the same version. This also means that any other language than English will fail the installation.
-
-Open the Steam Properties window, navigate to the _Language_ tab and select _English_ from the dropdown menu.
+Right-click on Skyrim SE in your Steam library, choose Properties, uncheck _Enable the Steam Overlay while in-game_. While you're there, click the Updates tab and change it to _Only update this game when I launch it_. We will basically never launch Skyrim normally, it will always be via the script extender, so your game will never update. Finally, Wabbajack only supports the English version of Skyrim. If it's set to something else, go to the Language tab and switch it to English.
 
 #### Clean Skyrim
 
-I highly recommend uninstalling the game through Steam, deleting the game folder and reinstalling it. You should also clean up the `Skyrim Special Edition` folder in `Documents/My Games/`. You can also use [Skyrim Shredder](https://www.nexusmods.com/skyrimspecialedition/mods/30133) br trawz that will clean your installation.
+If you have done _any_ modding of your Skyrim before, I recommend uninstalling it, deleting the Skyrim SE folder in Documents, then reinstalling it and taking the following steps:
 
-#### Start Skyrim
+1) Launch it from Steam
+2) If it doesn't detect as Ultra, select Ultra
+3) Set the _Ratio_ and _Resolution_ to your preferred choices
+4) Turn off _Antialiasing_
+5) Uncheck _Windowed_ and _Borderless_
 
-After you have done everything above and got a clean SSE installation ready, start the Launcher and open the _Options_ menu.
-
-1) Click on _Ultra_
-2) Set the _Aspect Ratio_ and _Resolution_ to your monitor's native values
-3) Set _Antialiasing_ to _Off_
-4) Uncheck _Windowed Mode_ and _Borderless_
-
-Start the game and exit once you're in the main menu.
+Then start the game and exit when you see the main menu (New Game, etc)
 
 ### Using Wabbajack
 
-#### Preparations
+First get the latest version of LSM from https://github.com/erri120/lotus/releases.
 
-Let's get to the actual installation. Grab the latest release from [GitHub](https://github.com/erri120/lotus/releases).
+Download it to wherever you keep your downloads.
 
-Download the release to a _working folder_. This folder **must not** be in a _common folders_ like your Desktop, Downloads or Program Files folder. It's best to create a Wabbajack folder near the root level of your drive like `C:/Wabbajack`.
-
-Grab the latest release of Wabbajack from [GitHub](https://github.com/wabbajack-tools/wabbajack/releases) and place the `Wabbajack.exe` file in the _working folder_.
+Then install Wabbajack.
 
 #### Downloading and Installing
 
@@ -82,36 +58,21 @@ The download and installation process can take a very long time depending on you
 
 #### Problems with Wabbajack
 
-There are a lot of different scenarios where Wabbajack will produce an error. I recommend re-running Wabbajack before posting anything. Wabbajack will continue where it left off so you loose no progress.
+If you have a problem, exit Wabbajack, give it the old off and then on again, and try running it again. Only then should you ask for help.
 
 **Could not download x**:
 
-If a mod updated and the old files got deleted, it is impossible to download them. In this case just wait till I update the Modlist.
-
-**x is not a whitelisted download**:
-
-This can happen when I update the modlist. Check if a new update is available and wait if there is none.
+If a file could not download or is not whitelisted, the modlist needs to be updated. You're going to have to wait on me. :(
 
 **Wabbajack could not find my game folder**:
 
-Wabbajack will not work with a pirated version of the game. If you own the game on Steam, go back to the [Pre-Installation](#pre-installation) step.
-
-### Post-Installation
+You paid for Skyrim didn't you? If not, go buy it off Steam and try again.
 
 #### Copy Game Folder Files
 
-Download the latest ENB Series from [here](http://enbdev.com/download_mod_tesskyrimse.htm) and copy `d3d11.dll` and `d3dcompiler_46e.dll` to your game folder.
+Download the latest ENB Series from http://enbdev.com/download_mod_tesskyrimse.htm and copy `d3d11.dll` and `d3dcompiler_46e.dll` to your Skyrim Special Edition folder inside your steamapps/common folder.
 
-Copy the following files from the `MO2/Game Folder Files` directory to your game folder:
-
-- `enbseries/*`
-- `binkw64.dll`
-- `d3dx9_42.dll`
-- `enblocal.ini`
-- `enbseries.ini`
-- `skse64_*`
-- `tbb.dll`
-- `tbbmalloc.dll`
+Copy all of the files from _game folder files_ over there.
 
 #### A note on BodySlide
 
@@ -131,35 +92,35 @@ Updating is like installing. You only have to make sure that you select the same
 
 I'm not going to get deep into the weeds on all the mods included because quite frankly there's not anywhere near the amount of detail in this list as a lot of them and I don't think most of the people seeking to try this have a desire to read much about it. But here I will note a few things. My primary goal in creating this list was to play a super expanded LOTD with almost all of the huge worldspace mods like Falskaar, Wyrmstooth, Vigilant, etc included. I also wanted plenty of weapons and items to find organically without adding a bunch of collectibles that don't appeal to me. Does anybody ever find every collectible without looking them up? Doesn't that kinda defeat the purpose? Anyway, I speculate here. Most of the visuals, character development and gameplay mechanics are either cribbed from Lexy or strongly resemble Lexy with the exception of TUDM The Ultimate Dodge Mod. I guess that's all I have to say about that.
 
-I did NOT include creature support not only because it's not my thing but because I wanted to use the Nemesis Behavior Engine without having to shoehorn FNIS in there too. I also did not include Devious Devices or any of its soft dependencies like Cursed Loot because only someone with more modding experinece than me would know how to get those to stay stable in the long term. Hell I've run a list with nothing but ZaZ, DD, and Cursed Loot on Oldrim (their native soil) and have my save crap itself with guards attacking me in an infinite bondage prison loop within 12 hours of starting a new game so ¯\_(ツ)_/¯
+I did NOT include creature support because I wanted to use the Nemesis Behavior Engine without having to shoehorn FNIS in there too. I also did not include Devious Devices or any of its soft dependencies like Cursed Loot because only someone with more modding experience than me would know how to get those to stay stable in the long term. Hell I've run a list with nothing but ZaZ, DD, and Cursed Loot on Oldrim (their native soil) and have my save crap itself with guards attacking me in an infinite bondage prison loop within 12 hours of starting a new game so ¯\_(ツ)_/¯
 
 ### Be A Casanova, Not A Maquis De Sade
 
 The primary and most visible SexLab mods you'll be able to see are Amorous Adventures and Amorous Adventures Extended. These add hilarious meme-worthy sexy quests to a lot of the biggest female NPCs in Skyrim (including poor Elisif) and not only that, original voice assets are mixed and matched to give complete voiceover support to the custom dialogs. The next biggest one is SLEN - SexLab Eager NPCs which allows for a customizable seduction system. To round out the mix is SexLab Solutions which adds a bunch of ways to complete quests by either sexing them up yourself or offering one of your followers in case you're not into the target in question.
 
-## Defeat
+### Defeat
 
-Yes, Defeat is in here. Yes, I have a setup for it ready to go. No, you won't see it a lot unless you change it yourself. The long and short of it is, if you want to see yourself getting taken advantage of every time you lose, under "Player as Victim" set yourself to "Essential." If you don't want to be taken advantage of at all and prefer a quick, merciful death, disable the victim section completely. This will still allow you to sublimate your fantasies harmlessly into Skyrim by tying people up and putting them in bags for later (ab)use.
+Yes, Defeat is in here. Yes, I have a setup for it ready to go. No, you won't see it a lot unless you change it yourself. The long and short of it is, if you want to see yourself getting taken advantage of every time you lose, under "Player as Victim" set yourself to "Essential." If you don't want to be taken advantage of at all and prefer a quick, merciful death, disable the victim section completely. This will still allow you to sublimate your fantasies harmlessly into Skyrim by tying people up and putting them in bags for later.
 
 ### Camera
 
 I included the vastly inferior IFPV because I've got it defaulting to off so it doesn't muck with gameplay. You have to hit Numpad 0, then F a couple times to switch it on. It doesn't work at all when the partners are really close together (too much clipping) but it at least gives you a quick default to setting up your own POV view with Numpad 3. Relax and enjoy on it. Honestly I use this more to take a quick look down at my own huge bouncy boobs. :3
 
-#### General Skyrim Gameplay
+### General Skyrim Gameplay
 
 Most of the actual Gameplay of this modlist is cribbed, again, from Lexy so if you're at all familiar with that setup you'll be right at home here. One thing I did add was the Ultimate Dodge Mod for a script-free instantaneous dodge roll (or step, or both) so you can still get away quickly after you install all 7 of those Lover's Lab NPC scanning nightmarish cloak script frameworks you're just dying to add. Just kidding, I love you. One thing I left out was the tedium and yes, cloak scripting of Needs mods so if you want to freeze, starve, and dehydrate you'll have to do it on your own list. I did add CACO and CCOR for the fun of building lotsa stuff that's overpowered. I'm helping!
 
-#### Bodies and NPCs
+### Bodies and NPCs
 
 For the bodies I used CBBE 3BBB with the custom 3BBB Cacophony preset. This can be rebuilt to your liking using BodySlide if you want to drop by the NSFW channel. Note that leaving SMP on is NOT recommended because that physics mod was never completed and has a memory leak, to the best of my knowledge. The longer you leave it on the more likely it will crash, especially in combat, and then you have to restart Skyrim unless you like looking at non-Euclidean objects. Anyway you can switch between 3BBB and the friendlier but less flashy CBPC by pressing Numpad +. For the NPCs just trust that they're pretty, I'm lazy, and I haven't seen any BFBs (brown face bugs) yet. Everyone wearing vanilla clothes or armor has been outfitted with "super sloot" courtesy of Bad Dog so that makes this list decidedly unwelcome among mixed company. Play it alone! If you want to hide your shame, or simply muh immersion at the idea of Mjoll walking around with all four cheeks on display, stop by NSFW and I'll tell you how to get everyone to cover up their meat. The armor from the worldspace mods like Falskaar has been left unchanged.
 
-#### Final Notes
+### Final Notes
 
 LODs HAVE NOT BEEN RUN. I don't want to do it until a little testing is done. I had 17 hours on this modlists previous version before a bunch of stuff updated and that had LODs, but c'est la vie. I'll get to it eventually.
 
-This modlist is ugly. I used The Method on the whole thing for maximum compatibility but didnt merge anything to ensure easy expandability. So there are like 100 ESLs and far more modgroups. Don't open xEdit (SSEEdit in MO2) unless you know what you're doing. If you want to add something either have me write a patch for it or ask me how because my mind is not as other minds.
+This modlist is ugly. I used The Method on the whole thing for maximum compatibility but didnt merge anything because it caused more problems than it solved and wasn't strictly necessary since I'm nowhere near the plugin limit. So there are like 100 ESLs and far more modgroups. Don't run LOOT or open xEdit (SSEEdit in MO2) unless you know what you're doing. If you want to add something either have me write a patch for it or ask me how because my mind is not as other minds. Gear should be fine, just make sure it has 3BBB compatible BodySlides and tack it on at the bottom of both the left and right panes of MO2. You can use the AddItemMenu object that starts in your inventory to search for any item or browse for anything in the list. If you find this to be too big a temptation just drop it in the starting cell before you talk to the statue to begin your game.
 
-## In-Game MCM Options
+### Game MCM Options
 
 None of this is written in stone, these are just the settings I use. Play freely with great abandon on all the sexy stuff. Consider carefully any gameplay changes because with just a couple of them you can make things either really hard or really easy. I myself don't have the balance perfect, bandits and dragons crush me but I generally walk through everything else.
 
@@ -167,550 +128,180 @@ None of this is written in stone, these are just the settings I use. Play freely
 
 If you get no more messages, save the game and open the MCM.
 
-### 3PCO - 3rd Person Camera Overhaul
+## SexLab
 
-**Melee**:
+Hit the install/update SexLab thingie on the right.
 
-(Personal preference, I like to keep the camera somewhat close to the character. Try different values adn find what feels best to you!)
+Close the MCM menu and wait for all the messages to stop.
 
-*Positive X Offset* - `60`
+Reopen the menu and:
 
-*Negative X Offset* - `60`
+Under _Sex Diary_ set your sexuality to your preference.
 
-### AGO
+Under _Rebuild and Clean_ choose _Import Settings_
 
-**Settings**:
+Close the MCM menu, save the game, wait 10 seconds, then reload.
 
-Enable/Disable
+## A Matter of Time
 
-*Persistent Arrows* - `Disabled`
+Easy peasy. Just head to the _Presets_ menu and choose _Load User Settings_
 
-### Bestial Essence
+## Clockwork
 
-**Settings**:
+Unless you want to go mad, change the _Gilded Recovery Time_ to _24 Hours_
 
-*Controller Vibration During Sex* - `Disabled`
+## Complete Alchemy
 
-(If you don't want Creature animations use the `Fade to Black During Sex` options or don't play this quest)
+I don't recommend changing a single thing here. If you're salty about the lack of needs mods, you can go to _Basic Needs_ and enable _Hunger_ and _Fatigue_. If you do this, set Notifications to _3rd Person_
 
-### Blush When Aroused
+## Complete Crafting
 
-**General**:
+OK, this one's annoying.
 
-Compatibility
+Under _Recipe Display_, disable _Crafting Categories_ and _Item Type Filters_ because I haven't been able to get them right.
 
-*SexLab Aroused Redux* - `Enabled`
+Under _Crafting Options_, I recommend enabling _Artifact Replicas_ so you can make some truly badass stuff and _Matching Set Circlets_ so your Bijins don't have to cover their fabulous hair with ugly helmets.
 
-**Cause and Effect**:
+Under _Learning & XP_, set _Tanning Rack_ to 0.2 and _Smelter_ to 0.1.
 
-Player
+Almost done. Under _Mining & Materials_, set the Mining Preset to _Faster Mining_ and _Firewood_ like so:
 
-*Nakedness* - `Enabled`
+_Firewood Per Chop:_ 6
 
-NPCs
+_Max Per Activation:_ 1
 
-*Nakedness* - `Enabled`
+You'll be glad you did.
 
-**Exceptions**:
+Finally, under _Miscellaneous_:
 
-Player types
+Set Leveled Items to _Auto Upgrade_. This way your unique gear will level with you!
 
-*Victims blush* - `Enable`
+## Deadly Dragons
 
-NPC types
+Don't do anything here but turn off Knockdown unless you want dragons to make you ragequit.
 
-*Victims blush* - `Enable`
+## Diverse Dragons Col. 3
 
-### CBBE 3BBB Addon
+Supposedly some dragons have problems with godrays and invincibility but I'm gonna YOLO and say
 
-Player Use Set
+_Control_, _Enable All Creatures_
 
-*Player Use Slot*: `60 - Devious Devices Compatible`
+Close the menu and wait for the message to say splicing is complete.
 
-You can either use a hotkey (`Numpad -` by default) or a spell to toggle the Physics for the player.
+## Extended UI
 
-*Add Player 3BBB Physics Toggle Spell*: `Enable`
+Hit _Hide Legendary_, _Show Attribute Modifiers_, and _Show Skill Modifiers_
 
-Exit the MCM, go to your Spells Menu and use `3BBB Physics Toggle - Player`
+## FEC
 
-### Dogma - Thief
+You can do a lot of wacky stuff with this one, like make people explode or melt. But to keep you from spending all day in here I just say go to _Player Effects_ and enable _Soul Absorb_ for when those dragons inevitably kill you.
 
-**System**:
+## Follower Framework
 
-*Schlongs animation* - `Enable`
+Like _Matter of Time_, this one let me do all the work beforehand. Just go to _System_ and under _Save/Load Config_ hit _Load From File_.
 
-*Schlong size* - `Enable`
+Exit the MCM and reopen.
 
-*SFX* - `Disable`
+## GIST Soul Trap
 
-*Blush* - `Disable`
+Don't make soul traps reliant on your Enchanting skill. That's annoying. Just enable messages when you trap a soul and leave everything else alone.
 
-*Squirting* - `Disable`
+## Immersive Creatures
 
-*Fade* - `Enable`
+This mod barely works so you'll have to disable most of it. Here goes...
 
-*Unequip shoes* - `Disable`
+First go to _Creature Toggles_ and disable _Goblins_. They cause crashes.
 
-*Notes by the author* - `Enable`
+Then go to _Additional Spawns_, _Night Spawns_, and _Random Spawns_ and set them all to _Deactivated_. They all cause crashes.
 
-*Sound Effects* - `New`
+Why is this mod in here you ask? Well... this is the 90s. A man's gotta have a little variety.
 
-**Thief**:
+## LOTD Settings
 
-Settings
+Under _General_ set _Shipment Crate Locations_ to all available... _Carriages, Inns and Player Houses_
 
-*Tips* - `Enable`
+## Maids II: Deception
 
-*Achievement notifications* - `Enable`
+Shoutout to erri. I wanted to see what this was about before Lotus 0.3's release in 2077 so it's still in here. I read the world encounters have issues so disable them under _Settings_.
 
-*Checkpoint Autosave* - `Disable`
+## OBIS: Patrols
 
-*Overlays* - `Disable`
+Just _Enable?_ and move on.
 
-### FNIS PCEA2
+## Quick Light
 
-**Available Animation Collections**:
+The brighter the better. Set _Brightness_ to _Wide_ and the hotkey to your preference, I like to have things on the Numpad so I always set it to Numpad 1.
 
-*Female* - `Enable` if player character is female
+## Sacrosant Vampires
 
-*Male* - `Enable` if player character is male
+_Disable Fortitude_ or Defeat will screw up your game as a vampire. If you're like me and think feeding should make you stronger instead of weaker, turn on _Vampiric Drain: Reverse Progression_
 
-Click `Refresh PCEA2 animations NOW`, exit and reopen the MCM.
+## SexLab Aroused
 
-### Follower Framework
+Under Settings, hit _Purge Dead Actors_ and _Enable SOS_
 
-**Activity**:
+If it were me in the interest of preventing Papyrus strain I would I would max the _Scan Interval_ out to _300_ but thats very unresponsive so just leave it where it is.
 
-Sandboxing
+## SexLab Eager NPCs
 
-*Ignore Special Furniture* - `Enabled`
+I can't really tell you how you like your porn, man. Do what you want. I recommend hitting _Enable and Set Defaults_ for a base to work from. Everything else is kinda up to you, but I will tell you that the _Leveled List_ section adds a bunch of sexytime potions scattered around for roleplay purposes, and don't worry about what _SOS Integration_ reports because that detection is broken. Otherwise the mod works, trust me! One final note, if you want seduction to be really easy like you're the hottest being alive, you can do that with the charm difficulty. Even still you'll have to pay up at the beginning. But don't worry, your Speech will also go up with every success (the amount of which is also configurable) and it'll get easier.
 
-*Stop During Player Dialogue* - `Enabled`
+## SexLab Tools
 
-*Only Sandbox in Town* - `Enabled`
+This can be used to set up a scene with whoever you want, however many people you want, in whatever combination, without conditions. Set the _Matchmaker Queue_ hotkey to something you'll remember. I use Numpad 2.
 
-*Only Sandbox in Non-Dungeon* - `Enabled`
+It's really janky though. Set the primary "bottom" as the receiver and add actors to the remaining slots until your horny self is satisfied, then if you want yourself click on empty space and begin the scene. What stinks though is that you have to type in the total number of participants every blinkin' time you add somebody. I don't think any animations support more than 5 people at a time, you swinger.
 
-**System**:
+## SL Anim Loader
 
-Hotkeyed Abilities
+Just hit _Enable All_, wait for the message, then hit _Register Anims_ and wait for the message. Takes a bit.
 
-(You don't have to assign any hotkeys if you want. As a [Republic Commando](https://store.steampowered.com/app/6000/STAR_WARS_Republic_Commando/) lover, I like to assign the F1-F4 hotkeys)
+## SLA Monitor Widget
 
-*Command Followers* - `F4`
+Configure this how you like, but I recommend setting the _Interval_ to _120 or higher_ since that's when Aroused updates and the _Scanning Range_ to _512_ to keep it from scanning everything that Aroused is already scanning. You might further limit it to dudes if you only have interest in them or the ladies if you're oriented that way. But if you're open-minded or nosy then scan away!
 
-*Calm Followers* - `F1`
+## Storm Lighting
 
-*Followers Retreat* - `F3`
+You can get crazy with the aggressive storms but to save time I recommend just going to _Advanced_ and hitting _Compatibility Mode_. It's required for Cathedral Weathers.
 
-*Followers Attack* - `F2`
+## The Ultimate Dodge Mod
 
-### Forgotten Wenches
+Ah, my favorite part of this mod list. Instant 8 way dodges. I recommend setting it to  _Roll Only_ so you can appreciate Dodge Roll Reanimated. It's kinda tricky to use, Sneak has been moved to the Shift key and you roll dodge with Control. Good luck.
 
-**Forgotten Configuration**:
+## Trade & Barter
 
-Ondeath Summon Chance
+Enable _Modify Barter Settings_ and set the preset to _Medium_
 
-*Forgotten Wench Spawn* - `25% Chance`
+This keeps you from accumulating hundreds of thousands of gold unless you become a master wordsmith so if you don't like that turn it off.
 
-### Growl Werebeasts
+## Ultimate Combat
 
-**Features**:
+Under _Game Balance_, disable _Speed Bonus_.
 
-*Invulnerable During Transformation* - `Enabled`
+Under _Others_, disable _Swing Effect_. This has been known to bug out with Nemesis and render you incapable of weapon animations.
 
-### Hateful Wenches
+Under _NPC Setting_, set _Dodge_ to _Disable_. This is handled by TUDM.
 
-**Hateful Configuration**:
+## Wildcat
 
-Summon Undead Wench Spell
+Only thing you have to change here is _Allow Wildcat to Manage Difficulty_
 
-*Draugrs* - `20%`
+A note, if you find the game too easy or hard, you have to change the difficulty in the basic game settings, in Immersive Creatures, and finally in Deadly Dragons. Don't forget this. For ultimate stunlock immersion turn on full body stagger here in Wildcat. Makes getting surrounded by half a dozen greataxe wielding Gilded extra fun, and I say that from first hand experience!
 
-### Judgment Wenches
+## XPMSE
 
-**Judgment Configuration**:
+For some reason this mod likes to change the styles randomly. Make sure all the styles are at default.
 
-Judgment Wenches spawn chance.
+Close the MCM Menu, save the game, wait 10 seconds, and load.
 
-*Judgment Wench* - `20%`
+This is so you'll have a save from before you configured Defeat because you must _always_ configure Defeat _last_.
 
-### Poser Hotkeys
+## Defeat
 
-**Hotkeys**:
+First, enable the mod, close the menu, and wait for the message.
 
-Make sure to use the *Enable/Disable All Hotkeys* button when you're not using this pose mod! It is important that *Hotkey Status* says `Hotkeys are Disabled`. If you see `Hotkeys are Enabled` exit the MCM and press the hotkey for *Enable/Disable All Hotkeys*.
+Then open the mod and under Global hit _Import Settings_
 
-### Quick Light
+Remember that you can hit the G people on downed (or dead) people to "defeat" them, you can sneak up behind somebody to "defeat" them with G, and you can be "defeated" yourself at any time with K. It's slow to respond at times, so if you want to see "defeat" instead of you know, play the game, do it as soon as you get surrounded. Remember -- no creatures as of now. Finally this mod is buggy at its best. If something goes wrong the LL forums might tell you to clean and reconfigure from the MCM. I don't advise that because it resets a great many Skyrim variables. If you get in some kind of freakish infinite loop or other weird scenario, reload the game, preferably after you exit it.
 
-(Brightness can be adjusted to whatever you like)
-
-*Brightness* - `Wide`
-
-(Personal preference, I like to disable the light key and just use `E`.)
-
-*Set light key* - `ESC`
-
-*Long press time for activate key* - `1.5s`
-
-### Sacrosanct Vampires
-
-**Vampire Spells, Powers and Abilities**:
-
-*Fortitude*: `Disable`
-
-### Schlongs of Skyrim
-
-**General Settings**:
-
-Global Settings
-
-*SOS Potions* - `Disabled`
-
-### Sky UI
-
-(Sky UI keeps bitching about the map sfw being outdated. This can be ignored and disabled.)
-
-**Advanced**:
-
-SWF Version Checking
-
-*Map Menu*: `Disable`
-
-### SSSO
-
-*Rotating Automatic Save* - `Enabled`
-
-*Auto Save Count* - `5 Slots`
-
-*Delay Before Exit Game* - `7 Seconds` (might be set higher if you have a slow drive)
-
-### Storm Lightning
-
-**Presets**:
-
-Click `Realistic`
-
-**Advanced**:
-
-*Compatibility Mode* - `Enabled`
-
-### TK Dodge
-
-Control Settings
-
-*Dodge Key* - `V` (set this to whatever you like)
-
-*Double Tap input* - `Disable` (personal preference)
-
-Other Settings
-
-*Stamina Cost* - `7.0` (choose something between `5.0` and `10.0`)
-
-### Ultimate Combat
-
-**General**:
-
-Stagger
-
-*Enemy Poise* - `Disabled`
-
-*Player Stagger* - `Disabled`
-
-Locational Damage
-
-*Locational Damage Sound* - `Disabled`
-
-*Locational Damage Effect* - `Disabled`
-
-### WetFunction Redux
-
-**Visuals**:
-
-Texture effects
-
-Disable everything except `Body - Sweat`
-
-Texture swapping - female
-
-Disable everything except `Body (specular)`
-
-### Wildcat Combat
-
-**Dynamic Combat**:
-
-*Disable Slow at 0 Stamina* - `Enabled`
-
-*Disable Swimming Stamina Cost* - `Enabled`
-
-*Disable Bow Interrupts* - `Enabled`
-
-**Stamina Costs**:
-
-*Bow Attacks Cost* - `0 Stamina`
-
-*Disable Pulled / Held Bow Stamina Cost* - `Enabled`
-
-**Timed Block**:
-
-*Disable Timed Block* - `Enabled`
-
-### XPMSE
-
-**Styles**:
-
-Quiver Style
-
-*Player* - `Frostfall Quiver (XP32)`
-
-*Non-Player* - `Frostfall Quiver (XP32)`
-
-### SexLab
-
-**Install**:
-
-SexLab v.163 SE dev Beta 8 by Ashal@LoversLab.com
-
-Click `INSTALL/UPDATE SEXLAB 1.63 SE DEV BETA 8`
-
-Close the MCM and wait until you receive the message:
-
-`SexLab - SexLab v1.63 SE dev beta 8 - Ready!`
-
-Save your game, reopen the MCM and continue configuration of SexLab
-
-**Animation Settings**:
-
-(If you don't want Creature animations, skip this step)
-
-*Allow Creature Animations* (Top Right, Under Animation Profile) - `Enabled`
-
-Close the MCM and wait until you receive the message:
-
-`SexLab Creature Animations Installed`
-
-Save your game, reopen the MCM and continue configuration of SexLab
-
-**Rebuild & Clean**:
-
-Click `Import Settings`, click `Accept`.
-
-### SexLab Aroused
-
-**SETTINGS**:
-
-General
-
-*Purge Dead Actors Every 10 Game Days* - `Enabled`
-
-*Enable SOS* - `Enabled`
-
-Arousal
-
-*Default Exposure Rate* - `1.7` (personal preference)
-
-*Decay Rate* - `1.5` (personal preference)
-
-### Radiant Prostitution
-
-**PC Settings**:
-
-Stripping
-
-*Use Beds* - `Enable`
-
-Reward Settings
-
-*Female PC Gold Bonus* - `10`
-
-*Male PC Gold Bonus* - `40`
-
-### SL Anim Loader
-
-**General Options**:
-
-Click `Enable All`
-
-Click `Register Animations`
-
-Wait in the MCM until you receive the Completed message
-
-### Defeat
-
-**General Settings**:
-
-Click `Mod Status - Disabled`
-
-Close the MCM and wait for the message `Defeat: Installed` and reopen the MCM.
-
-Click `Import settings`.
-
-### Spell Research
-
-**Options**:
-
-Click `Import Spells`, close the MCM and click `YES` to every prompt.
-
-## Adding more Mods
-
-### Using LOOT
-
-I like LOOT. It can be great if you are willing to invest some time in setting up some groups and custom rules. I still can't understand why most modlist authors and "pro modder" refuse to use LOOT, guess they never tried. Anyway: this modlist comes with a ton of custom rules, groups and whatnot to make it even easier adding mods.
-
-You can access the Groups Editor by using the three dots in the top right corner and selecting "Open Groups Editor". The graph will most likely make no sense to you but this is what I use. Some groups are auto-assigned using Regex. If you have no idea what Regex than don't even bother trying to understand it.
-
-- "Enemy Variations": `^(Enemy\sVariations)\s(V3|V4)\s-\s(?!NPCs)(?!Weapons)(?!Armor)[^\.]+\.(esp|esl)$`
-- "Enemy Variations - Armor": `^(Enemy\sVariations)\s(V3|V4)\s-\s(Armor)[^\.]+\.(esp|esl)$`
-- "Enemy Variations - NPCs": `^(Enemy\sVariations)\s(V3|V4)\s-\s(NPCs)(?!\s-\sResourcesSSE)(?!\s-\sTextures)[^\.]*\.(esp|esl)$`
-- "Enemy Variations - Weapons": `^(Enemy\sVariations)\s(V3|V4)\s-\s(Weapons)[^\.]+\.(esp|esl)$`
-- "kryptopyr's Patches": `^(CACO|TCIY|CCOR|WACCF|SPO)[\s_][^P]?(Patch)?[^\.]*\.(esp|esl)$` [Example](https://regex101.com/r/9VXgiY/1)
-- "LotD Patches": `^(DBM|BCS)_(?!RelicHunter)[^\.]+\.(esp|esl)$` [Example](https://regex101.com/r/o7VOiZ/1)
-- "OCW": `^(OCW_)(?!Obscure''s_CollegeofWinterhold)(?!CellSettings)[^\.]+\.(esp|esl)$` [Example](https://regex101.com/r/T5qHVh/1)
-- "QUASIPC": `^(Qw_)[^\.]+\.(esp|esl)$` [Example](https://regex101.com/r/sITg6c/1)
-- "erri120 Patches": `^(erri120_)[^-]*(-Patch)[^!](esp|esl)$` [Example](https://regex101.com/r/OP6Acn/1)
-- "Merges": `^[^-]+(\s-\sMerged).(esp|esl)$` [Example](https://regex101.com/r/hilhlv/1)
-
-Some notes about using Regex in LOOT: there are still some problems, see [this](https://github.com/loot/loot/issues/1193) and [this](https://github.com/loot/libloot/issues/64), and you can't override a regex group assignment.
-
-When adding a new mod with an esp, go into LOOT, use the three dots next to the plugin, click "Edit Metadata", go to the "Main" tab and assign it a group. The group names make somewhat sense like "Outfits", "Followers", "Accessories" or "Weapons". If you're in doubt ask on the discord or use the "default" group.
-
-After assigning a plugin to a group sort the load oder.
-
-### Textures
-
-Textures are by far the easiest mods to install. Simply install the mod and check what other mod also changes the same textures in MO2. The only textures that could be problematic are landscape/environment textures like new mountain textures.
-
-#### Skin Textures
-
-You might not like the default skins (see [Character Mods](#character-mods)) but there is one thing you need to be careful about: seams.
-
-If you change the default female texture, take a look at [this](https://www.loverslab.com/topic/137830-easy-way-to-make-seamless-sos-textures/) post on how to make seamless SOS textures.
-
-### Meshes
-
-Similar to [Textures](#textures) just slap them into MO2. Just be careful that those new meshes are for outfits as those should be compatible with the character body of this setup (see [Character Mods](#character-mods)).
-
-### Animations
-
-New animations can be easily added depending on the category. You have to differentiate between [SLAL Animations](#slal-animations) and [Normal Animations](#normal-animations). The former being animations for Sexlab and the later being animations like [Pretty Sit Idles](https://www.nexusmods.com/skyrimspecialedition/mods/10399).
-
-#### SLAL Animations
-
-[SLAL](https://www.loverslab.com/files/file/5328-sexlab-animation-loader-sse/) or _Sexlab Animation Loader_ requires special animations. You should only install additional Sexlab animations if those are made for SLAL.
-
-Simply install them and re-run FNIS. If the animations come with an ESP, than you will have to jump into xEdit or zEdit and find out what the ESP adds/changes. Most ESPs of animations simply add animations objects and do not change any vanilla records. These ESPs can be loaded anywhere in the loadorder.
-
-#### Normal Animations
-
-Simply install the new animations and re-run FNIS. You might want to take a look at [FNIS PCEA2](https://www.nexusmods.com/skyrimspecialedition/mods/13281) if you want those new animations to be player exclusive.
-
-### Pose Mods
-
-(check the [Poses](#poses) section first)
-
-Aside from simply running Nemesis, there are some actions you might want to execute:
-
-You need to do a little work if you want to fully integrate additional pose mods into this setup. The first thing you should do is check compatibility with [Poser Hotkeys SE](https://www.loverslab.com/files/file/5132-poser-hotkeys-se/). Poser Hotkeys requires `PoserData` (see `SKSE/plugins/PoserHotKeys/PoserData/*.json`) which can be generated with the `PoserDataGen` tool (see the executable list).
-
-Pose mods are often standalone and might give you spells and/or rings to use certain poses. You won't need those since we use Poser Hotkeys. I recommend you clean the plugin from the pose mod to remove all those spells, rings, object effects, quests, form id lists and so on. The only records you need are of type `Idle Animation` and `Animated Object`.
-
-Another thing you might want to consider is merging the plugin into the `Poses - Merged.esp` merge. Simply use the `Merge Plugins Hide` MO2 plugin to enable all plugins from that merge, go into zMerge, add that plugin to the merge, re-generate the merge and disable all plugins again with `Merge Plugins Hide`.
-
-### Outfits
-
-Another category of mods you can easily add to this setup. You only have to make sure that the outfits fit the character body (see [Character Mods](#character-mods)). It's also a good idea to find BodySlide files for that outfit so you can customize it.
-
-Install the outfit and, optionally but highly recommended, merge the outfit in the `Outfits - Merged` merge. Use the `Merge Plugins Hide` to activate all plugins from that merge, assing the new plugin to the Outfits LOOT group (see [Using LOOT](#using-loot)), sort with LOOT, open zMerge, add the esp to the merge and rebuild it. Make sure you disable all plugins with `Merge Plugin Hide` when you're finished.
-
-If the outfit contains high heels, check out [Heels Sound](https://www.loverslab.com/files/file/1795-heels-sound/) and change the Footstep Set of the Armor Addon to `AngelFSTHeelsFootstepSet`.
-
-### ENB
-
-The weather mod used in this Modlist is [Cathedral Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/24791) and the lighting mods are [Relighting Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/8586) and [Enhanced Lighting for ENB (ELE)](https://www.nexusmods.com/skyrimspecialedition/mods/1377). If you want to swap out the ENB, make sure that it is compatible with Cathedral Weathers and looks somewhat decent with RS and ELE. You could try and swap the those two mods with any other weather + lighting mod but this may disrupt the visual consistency that the entire Cathedral lineup has.
-
-Other ENBs you can use (not tested, experience may vary):
-
-ENBs that work with Cathedral Weathers:
-
-- [Silent Horizon](https://www.nexusmods.com/skyrimspecialedition/mods/21543)
-- [Ljoss - Semi-realistic performance preset with Nighteye and ENB Light support](https://www.nexusmods.com/skyrimspecialedition/mods/30971)
-
-ENBs that maybe work with Cathedral Weathers:
-
-- [Rudy ENB](https://www.nexusmods.com/skyrimspecialedition/mods/4796)
-- [NVT](https://www.nexusmods.com/skyrimspecialedition/mods/11203)
-- [PRT](https://www.nexusmods.com/skyrimspecialedition/mods/4743)
-- [Apex](https://www.nexusmods.com/skyrimspecialedition/mods/18042)
-
-## Tweaking Performance
-
-My Setup:
-
-- i7-7700k running at ~4.6 GHz
-- 1060 6GB overclocked to ~1800MHz (got +160 Core Clock and +400 on Memory Clock)
-- 16GB DDR4-3200 RAM (CL 14 iirc)
-- Game and MO2 running on an m.2
-
-### Tweaking the ENB
-
-This should always be the first thing you tweak. Disabling the ENB entirely can give you anything from 20 to >70 FPS. The ENB this Modlist comes with (see [ENB: Silent Horizon](#enb-silent-horizon)) is rather performance friendly. Open the ENB GUI using `Right Shift + Enter` (`Right Shift` is under the `Enter` key). This will open up the ENB GUI where you can enable and disable certain effects in the left panel.
-
-- `Bloom`: Can give you up to 3 FPS, will make light sources less bright
-- `DepthOfField`: Can give you up to 10 FPS, disabled by default and not really suited for gameplay
-- `Ambient Occlusion`: This one is a big hitter. You can get up to 20 FPS by disabling this but the effect is very noticeable
-- `Distant/DetailedShadow`: Those two can really give you a lot of FPS back depending on your shader settings (game settings). They are very noticeable.
-- `ComplexFire/ParticleLights`: You won't see a lot of difference at first when disabling those two, but when particles are on screen (eg using magic or near light sources such as fires), they can _burn_ through your FPS
-
-### Tweaking the Game Settings
-
-I highly recommend using [BethINI](https://www.nexusmods.com/skyrimspecialedition/mods/4875) which is included in this Modlist (can be found in `MO2/tools/BethINI`). I recommend tweaking the `Detail` section for more FPS:
-
-- `Shadow Resolution`: Very big one. A good balance is `2048` which is the borderline between high FPS drainage and garbage looking shadows.
-- `Ambient Occlusion`: Highly recommended to leave this at `None`. The ENB this Modlist comes with, uses the ENB SAO which is 10x better and performance friendly than base game SAO.
-- `Detailed Draw Distance`: Maybe try `2000` instead of `2800` but you won't notice a lot of FPS gain (maybe 1-3)
-- `Remove Shadows`: If you really struggle, use this. This will disable all Shadows (not recommended)
-
-### Using dxvk
-
-**THIS IS EXPERIMENTAL AND I WON'T PROVIDE SUPPORT IF YOU USE IT**!
-
-[DXVK](https://github.com/doitsujin/dxvk) is a Vulkan-based implementation of various DirectX versions. Did that sentence made no sense to you? Vulkan and DirectX are APIs that can be used in game engines to tell your graphics card how to render stuff. LE uses DirectX 9 (D3D9) while SSE uses DirectX 11 (D3D11).
-
-You can _try_ using DXVK. Vulkan runs better on AMD cards and better for D3D9 games. SSE is D3D11 so it may not even work for you. I recommend not using DXVK if you don't want to tinker with it but you are welcome to try it out.
-
-To use it, grab the latest [release](https://github.com/doitsujin/dxvk/releases), extract the archive and grab `x64/d3d11.dll` and `x64/dxgi.dll`. ENB might not be compatible with DXVK so I recommend trying it without one first. Copy those files into the main Skyrim folder and download this [dxvk.conf](https://pastebin.com/KAgwsbBf) file. This is the config file that works on my system so you might wanna tweak it for yours.
-
-If you do wanna use an ENB and you made DXVK work without an ENB, rename `d3d11.dll` to `d3d11_dxvk.dll`, install an ENB, open `enblocal.ini` and add `d3d11_dxvk.dll` as a proxy libaray:
-
-```ini
-[PROXY]
-EnableProxyLibrary=true
-InitProxyFunctions=true
-ProxyLibrary=d3d11_dxvk.dll
-```
-
-## Removing the Modlist
-
-You can just remove the MO2 folder and be done with it. SKSE and ENB files will still be in your game folder so I recommend using [ENB and ReShade Manager](https://www.nexusmods.com/skyrimspecialedition/mods/4143) if you want to remove the ENB.
-
-## Afterword
-
-I must applaud you if you have read the entire README. I started with this modlist in December 2019 and thought about it as early as November I think. When creating this modlist my main goal was to have a NSFW poster boy for Wabbajack and introduce + convince people from other communities to try out Wabbajack. There are still a ton of people who have no idea what Wabbajack does and still accosiate the word "modpack" with it. I also wanted to show users and modlist authors some good practices when creating a modlist and actually publishing it, this is not about the actual modlist itself but everything around it such as a README, Changelog, how to contribute, releases and so on.
-
-The READMEs of other modlists are mostly written on GDocs and only contain information on how to install the thing and how to setup the MCM. This is fine if you have something like [SME(FT)](https://github.com/EzioTheDeadPoet/SME-FT-) which is a small little starting point but not if you have a massive modlist with 800+ mods, 100+GB downloads and 90% of your README is MCM. My vision for a good modlist README is reflected here and you already read it. It should contain information on the general idea, why you would wanna install it, what you need but most importantly: what you actually get and what are the most important mods you should know about.
-
-I hope we will get more READMEs like this in the future so that the user has a better experience and asks less questions. Other modlists authors often complain about "stupid users" with "stupid questions" even tho their own README has like 20 lines on how to install it. I might also be that NSFW users are simply superior to plebs but I rarely get stupid questions since you can just pop up this README and likely find the information you need.
-
-Another reason I wanted to create an maintain a modlist is because I am also developing Wabbajack. Since starting this modlist I have added a lot of additional features and fixed equaly as much bugs because I actually used the program I develop. I have previously only compiled test modlists and installed some major public ones but never compiled a huge modlist like this myself.
-
-## Contact
-
-While I'm always available on the [Wabbajack Discord](https://discord.gg/wabbajack), I would advise checking the [Issues](https://github.com/erri120/lotus/issues) (open **and** closed ones) on GitHub first if you have any problems. The same goes for _Enhancements_ or _Feature/Mod Requests_. **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS AND I WILL BLOCK YOU**.
-
-## Contributing
-
-See [Contributing](CONTRIBUTING.md).
-
-## Changelog
-
-See [Changelog](CHANGELOG.md).
+## That's it! Go have fun in Sexy Skyrim!
