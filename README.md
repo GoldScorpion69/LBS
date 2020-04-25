@@ -266,7 +266,7 @@ You can get crazy with the aggressive storms but to save time I recommend just g
 
 ## The Ultimate Dodge Mod
 
-Ah, my favorite part of this mod list. Instant 8 way dodges. I recommend setting it to  _Roll Only_ so you can appreciate Dodge Roll Reanimated. It's kinda tricky to use, Sneak has been moved to the Shift key and you roll dodge with Control. Good luck.
+Ah, my favorite part of this mod list. Instant 8 way dodges. An **Important Note** here is that Step Dodge will _not work_ with the dodge roll animation I have installed. If you try it you will do a funky planking float in midair which is pretty funny to see but probably not why you play. Set it to  _Roll Only_ to avoid this. If you want the option to switch between roll and step like the dodge mod was designed, untick _Dodge Roll Reanimated_ in the modlist and rerun Nemesis. It's kinda tricky to use, Sneak has been moved to the Shift key and you roll dodge with Control. Good luck.
 
 ## Trade & Barter
 
