@@ -26,7 +26,7 @@ These steps are only needed if you install this Modlist for the first time.
 
 Right-click on Skyrim SE in your Steam library, choose Properties, uncheck _Enable the Steam Overlay while in-game_. While you're there, click the Updates tab and change it to _Only update this game when I launch it_. We will basically never launch Skyrim normally, it will always be via the script extender, so your game will never update. Finally, Wabbajack only supports the English version of Skyrim. If it's set to something else, go to the Language tab and switch it to English.
 
-#### Clean Skyrim
+##### Clean Skyrim
 
 If you have done _any_ modding of your Skyrim before, I recommend uninstalling it, deleting the Skyrim SE folder in Documents, then reinstalling it and taking the following steps:
 
@@ -40,13 +40,13 @@ Then start the game and exit when you see the main menu (New Game, etc)
 
 ### Using Wabbajack
 
-First get the latest version of LSM from https://drive.google.com/open?id=19cui-oVdXXTHIhcl8n6wfeq9D0CJQMKR.
+First get the latest version of LSM from https://github.com/erri120/lotus/releases.
 
 Download it to wherever you keep your downloads.
 
 Then install Wabbajack.
 
-#### Downloading and Installing
+##### Downloading and Installing
 
 The download and installation process can take a very long time depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
 
@@ -56,7 +56,7 @@ The download and installation process can take a very long time depending on you
 4) Click the Go/Begin button
 5) Wait for Wabbajack to finish
 
-#### Problems with Wabbajack
+##### Problems with Wabbajack
 
 If you have a problem, exit Wabbajack, give it the old off and then on again, and try running it again. Only then should you ask for help.
 
@@ -74,7 +74,7 @@ Download the latest ENB Series from http://enbdev.com/download_mod_tesskyrimse.h
 
 Copy all of the files from _game folder files_ over there.
 
-#### A note on BodySlide
+## A note on BodySlide
 
 My taste in BodySlides is as fickle as the wind... not only do I alternate between the naturalistic "Dream Girl" and something on the far end of - t h i c c - I also constantly change body types between UNP and CBBE depending on my mood or what armor mod I'd like to look at. For now everything is built with a custom "3BBB Cacophony thicc" body but it is entirely customizable. If you want to change this, pop into the NSFW channel and ask me.
 
@@ -120,7 +120,7 @@ LODs HAVE NOT BEEN RUN. I don't want to do it until a little testing is done. I 
 
 This modlist is ugly. I used The Method on the whole thing for maximum compatibility but didnt merge anything because it caused more problems than it solved and wasn't strictly necessary since I'm nowhere near the plugin limit. So there are like 100 ESLs and far more modgroups. Don't run LOOT or open xEdit (SSEEdit in MO2) unless you know what you're doing. If you want to add something either have me write a patch for it or ask me how because my mind is not as other minds. Gear should be fine, just make sure it has 3BBB compatible BodySlides and tack it on at the bottom of both the left and right panes of MO2. You can use the AddItemMenu object that starts in your inventory to search for any item or browse for anything in the list. If you find this to be too big a temptation just drop it in the starting cell before you talk to the statue to begin your game.
 
-### Game MCM Options
+## Game MCM Options
 
 None of this is written in stone, these are just the settings I use. Play freely with great abandon on all the sexy stuff. Consider carefully any gameplay changes because with just a couple of them you can make things either really hard or really easy. I myself don't have the balance perfect, bandits and dragons crush me but I generally walk through everything else.
 
@@ -304,4 +304,4 @@ Then open the mod and under Global hit _Import Settings_
 
 Remember that you can hit the G people on downed (or dead) people to "defeat" them, you can sneak up behind somebody to "defeat" them with G, and you can be "defeated" yourself at any time with K. It's slow to respond at times, so if you want to see "defeat" instead of you know, play the game, do it as soon as you get surrounded. Remember -- no creatures as of now. Finally this mod is buggy at its best. If something goes wrong the LL forums might tell you to clean and reconfigure from the MCM. I don't advise that because it resets a great many Skyrim variables. If you get in some kind of freakish infinite loop or other weird scenario, reload the game, preferably after you exit it.
 
-## That's it! Go have fun in Sexy Skyrim!
+# That's it! Go have fun in Sexy Skyrim!
