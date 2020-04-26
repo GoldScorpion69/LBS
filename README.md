@@ -44,7 +44,7 @@ First get the latest version of LSM from https://drive.google.com/drive/folders/
 
 Download it to wherever you keep your downloads.
 
-For now, LSM is not supported on Wabbajack 2.0. You'll have to download 1.1.5, the old version of Wabbajack, from https://github.com/wabbajack-tools/wabbajack/releases/tag/1.1.5.0
+LSM is now fully compatible with Wabbajack 2.0, the latest version. Get it from http://wabbajack.org
 
 When you launch it, select to install _From Disk_ and point to the .wabbajack file you downloaded above.
 
@@ -76,11 +76,11 @@ You paid for Skyrim didn't you? If not, go buy it off Steam and try again.
 
 Download the latest ENB Series from http://enbdev.com/download_mod_tesskyrimse.htm and copy `d3d11.dll` and `d3dcompiler_46e.dll` to your Skyrim Special Edition folder inside your steamapps/common folder.
 
-Now open the directory where your LSM installation went. Copy all of the files from inside the _game folder files_ directory to your Skyrim SE directory.
+Copy all of the files from _game folder files_ over there.
 
 ## A note on BodySlide
 
-Like erri I decided not to include prebuilt bodies, so you will have to use a preset already installed, add your favorite somewhere, or create one yourself with BodySlide. The only two groups you need to build are _3BBB_ and _3BA Fantasy_. To save time and hard drive space you can opt not to build morphs as I have nothing in here that dynamically morphs any actors. But then of course you can't tweak your body with Racemenu, so it's a trade-off.
+The current bodies and armors conform to a _CBBE Oppai_ preset from the _CBBE BodySlides Compendium_. It is rather... thicc. If you prefer a different look, you can render your own from the presets included or design one yourself in BodySlide, which is accessible from the same menu as SKSE and the rest of the tools. The only two groups you need to build are _3BBB_ and _3BA Fantasy_. To save time and hard drive space you can opt not to build morphs as I have nothing in here that dynamically morphs any actors. But then of course you can't tweak your body with Racemenu, so it's a trade-off.
 
 ## Updating
 
