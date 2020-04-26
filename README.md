@@ -76,7 +76,7 @@ Copy all of the files from _game folder files_ over there.
 
 ## A note on BodySlide
 
-My taste in BodySlides is as fickle as the wind... not only do I alternate between the naturalistic "Dream Girl" and something on the far end of - t h i c c - I also constantly change body types between UNP and CBBE depending on my mood or what armor mod I'd like to look at. For now everything is built with a custom "3BBB Cacophony thicc" body but it is entirely customizable. If you want to change this, pop into the NSFW channel and ask me.
+Like erri I decided not to include prebuilt bodies, so you will have to use a preset already installed, add your favorite somewhere, or create one yourself with BodySlide. The only two groups you need to build are _3BBB_ and _3BA Fantasy_. To save time and hard drive space you can opt not to build morphs as I have nothing in here that dynamically morphs any actors. But then of course you can't tweak your body with Racemenu, so it's a trade-off.
 
 ## Updating
 
@@ -112,7 +112,15 @@ Most of the actual Gameplay of this modlist is cribbed, again, from Lexy so if y
 
 ### Bodies and NPCs
 
-For the bodies I used CBBE 3BBB with the custom 3BBB Cacophony preset. This can be rebuilt to your liking using BodySlide if you want to drop by the NSFW channel. Note that leaving SMP on is NOT recommended because that physics mod was never completed and has a memory leak, to the best of my knowledge. The longer you leave it on the more likely it will crash, especially in combat, and then you have to restart Skyrim unless you like looking at non-Euclidean objects. Anyway you can switch between 3BBB and the friendlier but less flashy CBPC by pressing Numpad +. For the NPCs just trust that they're pretty, I'm lazy, and I haven't seen any BFBs (brown face bugs) yet. Everyone wearing vanilla clothes or armor has been outfitted with "super sloot" courtesy of Bad Dog so that makes this list decidedly unwelcome among mixed company. Play it alone! If you want to hide your shame, or simply muh immersion at the idea of Mjoll walking around with all four cheeks on display, stop by NSFW and I'll tell you how to get everyone to cover up their meat. The armor from the worldspace mods like Falskaar has been left unchanged.
+For the bodies I used CBBE 3BBB. Note that leaving SMP on is NOT recommended because that physics mod was never completed and has a memory leak, to the best of my knowledge. The longer you leave it on the more likely it will crash, especially in combat, and then you have to restart Skyrim unless you like looking at non-Euclidean objects. Anyway you can switch between 3BBB and the friendlier but less flashy CBPC by pressing Numpad +. For the NPCs just trust that they're pretty, I'm lazy, and I haven't seen any BFBs (brown face bugs) yet. Everyone wearing vanilla clothes or armor has been outfitted with "super sloot" courtesy of Bad Dog so that makes this list decidedly unwelcome among mixed company. Play it alone! If you want to hide your shame, or simply muh immersion at the idea of Mjoll walking around with all four cheeks on display, stop by NSFW and I'll tell you how to get everyone to cover up their meat. The armor from the worldspace mods like Falskaar has been left unchanged.
+
+### Poser Mods
+
+I submit to you that posing is better suited for a more full-featured adult modlist, but if you must add one, Nemesis isn't up to the task of handling that many animations. I recommend you switch to FNIS. Disable _Nemesis Behavior Engine_, _The Ultimate Dodge Mod_, _The Ultimate Dodge Mod Reanimated_, and _Nemesis Output_. Install _FNIS_ and move it just below _SexLabFramework_ in the left pane. Activate it and move the ESP just below _SkyUI_SE.esp_ in the right pane. Install your poser mod. A link to FNIS is already left over, but when you run it be sure to tick _Gender-Specific Animations_ and _Ultimate Combat_. If you want a dodge of some kind you'll have to install _TK Dodge_ before you do this.
+
+### Followers
+
+The only thing that will conflict with Followers like Lucien, Inigo and others is the Nether Follower Framework. You can craft an "NFF Ignore Token" at any forge that will cause them to circumvent Nether. I have never done this myself as I added a Nether patch for 3DNPC and that's all I was interested in, so you'll probably have to drop by the channel for help if you don't already know what to do. Of course if you use more than one follower at a time (even with Nether) the game will be way too easy at the settings I recommend so you'll have to up it in the relevant menus.
 
 ### Final Notes
 
