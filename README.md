@@ -76,7 +76,7 @@ You paid for Skyrim didn't you? If not, go buy it off Steam and try again.
 
 Download the latest ENB Series from http://enbdev.com/download_mod_tesskyrimse.htm and copy `d3d11.dll` and `d3dcompiler_46e.dll` to your Skyrim Special Edition folder inside your steamapps/common folder.
 
-Copy all of the files from _game folder files_ over there.
+Now open the directory where your LSM installation went. Copy all of the files from inside the _game folder files_ directory to your Skyrim SE directory.
 
 ## A note on BodySlide
 
