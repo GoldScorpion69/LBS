@@ -44,7 +44,11 @@ First get the latest version of LSM from https://drive.google.com/drive/folders/
 
 Download it to wherever you keep your downloads.
 
-Then install Wabbajack.
+For now, LSM is not supported on Wabbajack 2.0. You'll have to download 1.1.5, the old version of Wabbajack, from https://github.com/wabbajack-tools/wabbajack/releases/tag/1.1.5.0
+
+When you launch it, select to install _From Disk_ and point to the .wabbajack file you downloaded above.
+
+Then follow the rest of Wabbajack's instructions.
 
 ##### Downloading and Installing
 
