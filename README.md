@@ -72,15 +72,15 @@ If a file could not download or is not whitelisted, the modlist needs to be upda
 
 You paid for Skyrim didn't you? If not, go buy it off Steam and try again.
 
-#### Copy Game Folder Files
+#### Game Folder Files
 
 Download the latest ENB Series from http://enbdev.com/download_mod_tesskyrimse.htm and copy `d3d11.dll` and `d3dcompiler_46e.dll` to your Skyrim Special Edition folder inside your steamapps/common folder.
 
-Copy all of the files from _game folder files_ over there.
+Now enter your Skyrim SE directory. Inside you will find a file named "binkw64.dll". Rename it by adding an underscore to the end, like so: "binkw64_.dll". Finally, copy all of the files from the _game folder files_ directory inside the LSM installation directory to your Skyrim SE directory.
 
 ## A note on BodySlide
 
-The current bodies and armors conform to a _CBBE Oppai_ preset from the _CBBE BodySlides Compendium_. It is rather... thicc. If you prefer a different look, you can render your own from the presets included or design one yourself in BodySlide, which is accessible from the same menu as SKSE and the rest of the tools. The only two groups you need to build are _3BBB_ and _BD 3BBB Fantasy_. To save time and hard drive space you can opt not to build morphs as I have nothing in here that dynamically morphs any actors. But then of course you can't tweak your body with Racemenu, so it's a trade-off.
+The current bodies and armors conform to a _CBBE Oppai_ preset from the _CBBE BodySlides Compendium_. It is rather... thicc. If you prefer a different look, you can render your own from the presets included or design one yourself in BodySlide, which is accessible from the same menu as SKSE and the rest of the tools. The only two groups you need to build are _3BBB_ and _3BA Fantasy_. To save time and hard drive space you can opt not to build morphs as I have nothing in here that dynamically morphs any actors. But then of course you can't tweak your body with Racemenu, so it's a trade-off.
 
 ## Updating
 
@@ -263,6 +263,10 @@ I can't really tell you how you like your porn, man. Do what you want. I recomme
 This can be used to set up a scene with whoever you want, however many people you want, in whatever combination, without conditions. Set the _Matchmaker Queue_ hotkey to something you'll remember. I use Numpad 2.
 
 It's really janky though. Set the primary "bottom" as the receiver and add actors to the remaining slots until your horny self is satisfied, then if you want yourself click on empty space and begin the scene. What stinks though is that you have to type in the total number of participants every blinkin' time you add somebody. I don't think any animations support more than 5 people at a time, you swinger.
+
+## SkyUI
+
+Only thing you need to change here is on the main page. Under _Active Effects HUD_, untick the _Enabled_ option. Those icons overlap my Matter of Time preset.
 
 ## SL Anim Loader
 
