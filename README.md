@@ -80,7 +80,7 @@ Copy all of the files from _game folder files_ over there.
 
 ## A note on BodySlide
 
-The current bodies and armors conform to a _CBBE Oppai_ preset from the _CBBE BodySlides Compendium_. It is rather... thicc. If you prefer a different look, you can render your own from the presets included or design one yourself in BodySlide, which is accessible from the same menu as SKSE and the rest of the tools. The only two groups you need to build are _3BBB_ and _3BA Fantasy_. To save time and hard drive space you can opt not to build morphs as I have nothing in here that dynamically morphs any actors. But then of course you can't tweak your body with Racemenu, so it's a trade-off.
+The current bodies and armors conform to a _CBBE Oppai_ preset from the _CBBE BodySlides Compendium_. It is rather... thicc. If you prefer a different look, you can render your own from the presets included or design one yourself in BodySlide, which is accessible from the same menu as SKSE and the rest of the tools. The only two groups you need to build are _3BBB_ and _BD 3BBB Fantasy_. To save time and hard drive space you can opt not to build morphs as I have nothing in here that dynamically morphs any actors. But then of course you can't tweak your body with Racemenu, so it's a trade-off.
 
 ## Updating
 
