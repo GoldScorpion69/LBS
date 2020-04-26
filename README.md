@@ -76,7 +76,7 @@ You paid for Skyrim didn't you? If not, go buy it off Steam and try again.
 
 Download the latest ENB Series from http://enbdev.com/download_mod_tesskyrimse.htm and copy `d3d11.dll` and `d3dcompiler_46e.dll` to your Skyrim Special Edition folder inside your steamapps/common folder.
 
-Now enter your Skyrim SE directory. Inside you will find a file named "binkw64.dll". Rename it by adding an underscore to the end, like so: "binkw64_.dll". Finally, copy all of the files from the _game folder files_ directory inside the LSM installation directory to your Skyrim SE directory.
+Finally, copy all of the files from the _game folder files_ directory inside the LSM installation directory to your Skyrim SE directory.
 
 ## A note on BodySlide
 
