@@ -4,7 +4,7 @@
 
 Hello, my name is Cacophony and I got into modding as a teenager purely for the purposes of applying nudity. For a long time that was my only goal... until the modding communities surrounding Skyrim evolved. From there I branched out, building the TUCOGUIDE, Lexy, morphing Lexy into LOTD Plus, and finally discovering Wabbajack and spending almost all of my time either starting a new list or changing one I or someone else had made. With the discovery of Lover's Lab, I found out through much pain and torture that usually porn doesn't work well with playing Skyrim and playing Skyrim doesn't mesh well with playing porn and I lacked the skill to change that. So I solved it by simply paring back my ambitions.
 
-If you want the gist of what this horribly cribbed modlist is, it grew out of the two most common questions I heard in the Lexy Discord's NSFW channel: how do I add SexLab to this? And: how do I switch the body to CBBE? I quickly came to realize that you don't do either of these things... unless you want a broken list that would have been more easily built from the ground up. So I did just that, keeping the parts of Lexy that I liked (which was the vast majority of it), throwing in a few other things to the mix, and adding some options to sex things up for both male and female characters. Hopefully this will take the heat off other modlist authors Discord channels and maybe even tide us over until erri120 gets around to finishing Lotus and we can descend into the pure depravity we all crave. Without further ado I present to you the Light Sexy Modlist: Please Stop Bothering Other Modlist Authors Edition.
+If you want the gist of what this horribly cribbed modlist is, it grew out of the two most common questions I heard in the Lexy Discord's NSFW channel: how do I add SexLab to this? And: how do I switch the body to CBBE? I quickly came to realize that you don't do either of these things... unless you want a broken list that would have been more easily built from the ground up. So I did just that, keeping the parts of Lexy that I liked (which was the vast majority of it), throwing in a few other things to the mix, and adding some options to sex things up for both male and female characters. While not intended as a replacement for a full-featured list like Lotus or a screenshot-posing oriented list like Cupid, Light But Sexy serves perfectly as a small, resource-friendly modlist that remains continuously updated and will provide an option for simple sexy play when other modlists are unavailable. Without further ado I present to you Light But Sexy: To Tide You Over.
 
 ## Requirements
 
@@ -16,7 +16,7 @@ Also you'll need a Lover's Lab account (http://loverslab.com)
 
 ### System Specs
 
-A note here. I use a 1080p monitor and I suspect the vast majority looking to play Skyrim in this day and age do too. So this modlist is geared toward two things: low VRAM usage and quick load times. You shouldn't need more than a midrange CPU and GPU from the last 5 years along with 8 GB VRAM and maybe 16 GB RAM (might could get away with 8). Strongly recommended is a solid state drive with at least 100 GB for the game itself and 50GB for the downloads (unless you never plan to update). This is not because load times are terrible on an HDD. Hashing with WJ for updates is a pain though.
+A note here. I use a 1080p monitor and I suspect the vast majority looking to play Skyrim in this day and age do too. So this modlist is geared toward two things: low VRAM usage and quick load times. Running the Skyrim Performance Monitor shows me that LBS only uses at most 6 GB of RAM and 6 GB of VRAM. You shouldn't need more than a midrange CPU and GPU from the last 5 years along with 8 GB VRAM and maybe 16 GB RAM (might could get away with 8). Strongly recommended is a solid state drive with at least 100 GB for the game itself and 50GB for the downloads (unless you never plan to update). This is not because load times are terrible on an HDD. Hashing with WJ for updates is a pain though.
 
 ### Pre-Installation
 
@@ -80,7 +80,7 @@ Finally, copy all of the files from the _game folder files_ directory inside the
 
 ## A note on BodySlide
 
-The current bodies and armors conform to a _CBBE Oppai_ preset from the _CBBE BodySlides Compendium_. It is rather... thicc. If you prefer a different look, you can render your own from the presets included or design one yourself in BodySlide, which is accessible from the same menu as SKSE and the rest of the tools. The only two groups you need to build are _3BBB_ and _3BA Fantasy_. To save time and hard drive space you can opt not to build morphs as I have nothing in here that dynamically morphs any actors. But then of course you can't tweak your body with Racemenu, so it's a trade-off.
+The current bodies and armors conform to an _Imitation Dream Girl_ preset from the _CBBE BodySlides Compendium_. It is a more modest, realistic preset that is miles away from the thicc presets most people prefer. This is actually intended to prevent as much clipping on the skintight armors as possible. If you prefer a different look, you can render your own from the presets included or design one yourself in BodySlide, which is accessible from the same menu as SKSE and the rest of the tools. The only two groups you need to build are _3BBB_ and _BD 3BBB Fantasy_. To save time and hard drive space you can opt not to build morphs as I have nothing in here that dynamically morphs any actors. But then of course you can't tweak your body with Racemenu, so it's a trade-off.
 
 ## Updating
 
@@ -94,7 +94,7 @@ Updating is like installing. You only have to make sure that you select the same
 
 ## A Few More Specific Notes
 
-I'm not going to get deep into the weeds on all the mods included because quite frankly there's not anywhere near the amount of detail in this list as a lot of them and I don't think most of the people seeking to try this have a desire to read much about it. But here I will note a few things. My primary goal in creating this list was to play a super expanded LOTD with almost all of the huge worldspace mods like Falskaar, Wyrmstooth, Vigilant, etc included. I also wanted plenty of weapons and items to find organically without adding a bunch of collectibles that don't appeal to me. Does anybody ever find every collectible without looking them up? Doesn't that kinda defeat the purpose? Anyway, I speculate here. Most of the visuals, character development and gameplay mechanics are either cribbed from Lexy or strongly resemble Lexy with the exception of TUDM The Ultimate Dodge Mod. I guess that's all I have to say about that.
+I'm not going to get deep into the weeds on all the mods included because quite frankly there's not anywhere near the amount of detail in this list as a lot of them and I don't think most of the people seeking to try this have a desire to read much about it. But here I will note a few things. My primary goal in creating this list was to play a super expanded LOTD with almost all of the huge worldspace mods like Falskaar, Wyrmstooth, Vigilant, etc included. I also wanted plenty of weapons and items to find organically without adding a bunch of collectibles that don't appeal to me. In addition, since this modlist is focused on lewdness, I didn't include many addon armorsets because most of the big, easy-to-install packs don't even have BodySlides, much less skimpy versions. Most of the visuals, character development and gameplay mechanics are either cribbed from Lexy or strongly resemble Lexy with the exception of TUDM The Ultimate Dodge Mod. I guess that's all I have to say about that.
 
 I did NOT include creature support because I wanted to use the Nemesis Behavior Engine without having to shoehorn FNIS in there too. I also did not include Devious Devices or any of its soft dependencies like Cursed Loot because only someone with more modding experience than me would know how to get those to stay stable in the long term. Hell I've run a list with nothing but ZaZ, DD, and Cursed Loot on Oldrim (their native soil) and have my save crap itself with guards attacking me in an infinite bondage prison loop within 12 hours of starting a new game so ¯\_(ツ)_/¯
 
@@ -104,7 +104,7 @@ The primary and most visible SexLab mods you'll be able to see are Amorous Adven
 
 ### Defeat
 
-Yes, Defeat is in here. Yes, I have a setup for it ready to go. No, you won't see it a lot unless you change it yourself. The long and short of it is, if you want to see yourself getting taken advantage of every time you lose, under "Player as Victim" set yourself to "Essential." If you don't want to be taken advantage of at all and prefer a quick, merciful death, disable the victim section completely. This will still allow you to sublimate your fantasies harmlessly into Skyrim by tying people up and putting them in bags for later.
+Befeat is here but it's conditional, which means you'll see it randomly if at all, and almost never if you have a follower fighting with you. If you want to see yourself getting taken advantage of every time you lose, under "Player as Victim" set yourself to "Essential." If you don't want to be taken advantage of at all and prefer a quick, merciful death, disable the victim section completely. This will still allow you to sublimate your fantasies harmlessly into Skyrim by tying people up and putting them in bags for later.
 
 ### Camera
 
@@ -112,7 +112,7 @@ I included the vastly inferior IFPV because I've got it defaulting to off so it 
 
 ### General Skyrim Gameplay
 
-Most of the actual Gameplay of this modlist is cribbed, again, from Lexy so if you're at all familiar with that setup you'll be right at home here. One thing I did add was the Ultimate Dodge Mod for a script-free instantaneous dodge roll (or step, or both) so you can still get away quickly after you install all 7 of those Lover's Lab NPC scanning nightmarish cloak script frameworks you're just dying to add. Just kidding, I love you. One thing I left out was the tedium and yes, cloak scripting of Needs mods so if you want to freeze, starve, and dehydrate you'll have to do it on your own list. I did add CACO and CCOR for the fun of building lotsa stuff that's overpowered. I'm helping!
+Most of the actual Gameplay of this modlist is cribbed, again, from Lexy so if you're at all familiar with that setup you'll be right at home here. One thing I did add was the Ultimate Dodge Mod for a script-free instantaneous dodge roll. One thing I left out was the tedium of Needs mods. I did add CACO and CCOR for the fun of building lotsa stuff that's overpowered.
 
 ### Bodies and NPCs
 
@@ -120,7 +120,7 @@ For the bodies I used CBBE 3BBB. Note that leaving SMP on is NOT recommended bec
 
 ### Poser Mods
 
-I submit to you that posing is better suited for a more full-featured adult modlist, but if you must add one, Nemesis isn't up to the task of handling that many animations. I recommend you switch to FNIS. Disable _Nemesis Behavior Engine_, _The Ultimate Dodge Mod_, _The Ultimate Dodge Mod Reanimated_, and _Nemesis Output_. Install _FNIS_ and move it just below _SexLabFramework_ in the left pane. Activate it and move the ESP just below _SkyUI_SE.esp_ in the right pane. Install your poser mod. A link to FNIS is already left over, but when you run it be sure to tick _Gender-Specific Animations_ and _Ultimate Combat_. If you want a dodge of some kind you'll have to install _TK Dodge_ before you do this.
+I submit to you that posing is better suited for a more full-featured adult modlist like Geez's "Cupid", but if you must add one, Nemesis isn't up to the task of handling that many animations. I recommend you switch to FNIS. Disable _Nemesis Behavior Engine_, _The Ultimate Dodge Mod_, _The Ultimate Dodge Mod Reanimated_, and _Nemesis Output_. Install _FNIS_ and move it just below _SexLabFramework_ in the left pane. Activate it and move the ESP just below _SkyUI_SE.esp_ in the right pane. Install your poser mod. A link to FNIS is already left over, but when you run it be sure to tick _Gender-Specific Animations_ and _Ultimate Combat_. If you want a dodge of some kind you'll have to install _TK Dodge_ before you do this.
 
 ### Followers
 
@@ -260,9 +260,7 @@ I can't really tell you how you like your porn, man. Do what you want. I recomme
 
 ## SexLab Tools
 
-This can be used to set up a scene with whoever you want, however many people you want, in whatever combination, without conditions. Set the _Matchmaker Queue_ hotkey to something you'll remember. I use Numpad 2.
-
-It's really janky though. Set the primary "bottom" as the receiver and add actors to the remaining slots until your horny self is satisfied, then if you want yourself click on empty space and begin the scene. What stinks though is that you have to type in the total number of participants every blinkin' time you add somebody. I don't think any animations support more than 5 people at a time, you swinger.
+I have had trouble starting scenes with this. This mod at times seems to put actors in the wrong slot and cause them to go invisible for some reason I can't explain. I'm considering replacing it with something else. For now it's only useful for changing animations with the H key during a scene.
 
 ## SkyUI
 
@@ -318,6 +316,6 @@ First, enable the mod, close the menu, and wait for the message.
 
 Then open the mod and under Global hit _Import Settings_
 
-Remember that you can hit the G people on downed (or dead) people to "defeat" them, you can sneak up behind somebody to "defeat" them with G, and you can be "defeated" yourself at any time with K. It's slow to respond at times, so if you want to see "defeat" instead of you know, play the game, do it as soon as you get surrounded. Remember -- no creatures as of now. Finally this mod is buggy at its best. If something goes wrong the LL forums might tell you to clean and reconfigure from the MCM. I don't advise that because it resets a great many Skyrim variables. If you get in some kind of freakish infinite loop or other weird scenario, reload the game, preferably after you exit it.
+Remember that you can hit the activate key people on downed (or dead) people to "defeat" them, you can sneak up behind somebody to "defeat" them with G, and you can be "defeated" yourself at any time with K. It's slow to respond at times, so if you want to see "defeat" instead of you know, play the game, do it as soon as you get surrounded. Remember -- no creatures as of now. Finally this mod is buggy at its best. If something goes wrong the LL forums might tell you to clean and reconfigure from the MCM. I don't advise that because it resets a great many Skyrim variables. If you get in some kind of freakish infinite loop or other weird scenario, first try opening the console with ` and typing "epc." If that doesn't work, reload the game, preferably after you exit it.
 
 # That's it! Go have fun in Sexy Skyrim!
