@@ -134,8 +134,6 @@ Finally, after 3DNPC and LOTD updated and I realized I'd have to pare through tw
 
 ## Game MCM Options
 
-**STILL UNDER CONSTRUCTION**
-
 None of this is written in stone, these are just the settings I use. Play freely with great abandon on all the sexy stuff. Consider carefully any gameplay changes because with just a couple of them you can make things either really hard or really easy. I myself don't have the balance perfect, bandits and dragons crush me but I generally walk through everything else.
 
 **Wait until no new messages appear in the top left corner!**
@@ -193,14 +191,6 @@ Set Leveled Items to _Auto Upgrade_. This way your unique gear will level with y
 ## Deadly Dragons
 
 Don't do anything here but turn off Knockdown unless you want dragons to make you ragequit.
-
-## Diverse Dragons Col. 3
-
-Supposedly some dragons have problems with godrays and invincibility but I'm gonna YOLO and say
-
-_Control_, _Enable All Creatures_
-
-Close the menu and wait for the message to say splicing is complete.
 
 ## Extended UI
 
@@ -274,15 +264,15 @@ Just hit _Enable All_, wait for the message, then hit _Register Anims_ and wait 
 
 ## SLA Monitor Widget
 
-Configure this how you like, but I recommend setting the _Interval_ to _120 or higher_ since that's when Aroused updates and the _Scanning Range_ to _512_ to keep it from scanning everything that Aroused is already scanning. You might further limit it to dudes if you only have interest in them or the ladies if you're oriented that way. But if you're open-minded or nosy then scan away!
+Configure this how you like, but I recommend setting the _Interval_ to _120 or higher_ since that's when Aroused updates and the _Scanning Range_ to _512_ to keep it from scanning everything for miles around. You might further limit it to dudes if you only have interest in them or the ladies if you're oriented that way. But if you're open-minded or nosy then scan away! I will mention this, though, on the _Widget Looks_ section you might want to change _Vertical Anchor_ to _Bottom_ so the aroused indicators won't overlap the notifications area.
 
 ## Storm Lighting
 
-You can get crazy with the aggressive storms but to save time I recommend just going to _Advanced_ and hitting _Compatibility Mode_. It's required for Cathedral Weathers.
+Some of my users are reporting problems with too much lightning, so set the _Preset_ to _Ultra Realistic_ and under _Advanced_, be sure to hit _Compatibility Mode_. It's required for Cathedral Weathers.
 
 ## The Ultimate Dodge Mod
 
-Ah, my favorite part of this mod list. Instant 8 way dodges. An **Important Note** here is that Step Dodge will _not work_ with the dodge roll animation I have installed. If you try it you will do a funky planking float in midair which is pretty funny to see but probably not why you play. Set it to  _Roll Only_ to avoid this. If you want the option to switch between roll and step like the dodge mod was designed, untick _Dodge Roll Reanimated_ in the modlist and rerun Nemesis. It's kinda tricky to use, Sneak has been moved to the Shift key and you roll dodge with Control. Good luck.
+Ah, my favorite part of this mod list. Instant 8 way dodges. An **Important Note** here is that Step Dodge will _not work_ with the dodge roll animation I have installed. If you try it you will do a funky planking float in midair which is pretty funny to see but probably not why you play. Set it to  _Roll Only_ to avoid this. If you want the option to switch between roll and step like the dodge mod was designed, untick _Dodge Roll Reanimated_ in the modlist and rerun Nemesis. It's kinda tricky to use, Sneak has been moved to the Shift key and you roll dodge with Control. **None of this will work until you leave the starting cell and start the game proper.**
 
 ## Trade & Barter
 
