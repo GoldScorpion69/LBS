@@ -1,5 +1,9 @@
 ## Changelog
 
+### 0.1.3.1
+
+Eeekie's released a new version just as I released 0.1.3, so I updated that. Forgot to mention I have removed Maids II due to navmesh conflicts and crashes with LODs. Lotus should have it though!
+
 ### 0.1.3
 
 My ambitious attempt to further customize my NPC overhauls resulted in crashing facegens around the city of Whiterun. I went back to my old simplistic method that works and resolved conflicts with some NordRace and HighElf entries in eeekie's that could have caused problems. Several ESPs were changed and moved around with this revision so I highly doubt it will be stable with old saves. Don't update if you're in the middle of a playthrough, and if you're getting crashes stop by the Discord server and I'll attempt to come up with a stopgap solution.

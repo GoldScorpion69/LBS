@@ -224,10 +224,6 @@ Why is this mod in here you ask? Well... this is the 90s. A man's gotta have a l
 
 Under _General_ set _Shipment Crate Locations_ to all available... _Carriages, Inns and Player Houses_
 
-## Maids II: Deception
-
-Shoutout to erri. I wanted to see what this was about before Lotus 0.3's release in 2077 so it's still in here. I read the world encounters have issues so disable them under _Settings_.
-
 ## OBIS: Patrols
 
 Just _Enable?_ and move on.
