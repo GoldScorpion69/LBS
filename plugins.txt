@@ -17,13 +17,12 @@
 *Schlongs of Skyrim - Core.esm
 *JSwords.esm
 *FISS.esp
-*DynDOLOD.esm
 *AHZmoreHUDInventory.esl
 *FNIS.esp
 *SkyUI_SE.esp
+*UIExtensions.esp
 *Audio Overhaul Skyrim.esp
 *SMIM-SE-Merged-All.esp
-*UIExtensions.esp
 *Chesko_LoreBasedLoadingScreens.esp
 *Celtic_Music_In_Skyrim_SE.esp
 *Celtic Music in Skyrim - Combat.esp
@@ -77,8 +76,6 @@
 *Book of UUNP Iron And Steel.esp
 *Helgen Reborn.esp
 *OBIS SE.esp
-*WICO - Immersive People.esp
-*WICO - Immersive People - USSEP Patch.esp
 *Immersive Weapons.esp
 *Wildcat - Combat of Skyrim.esp
 *dD - Enhanced Blood Main.esp
@@ -106,12 +103,10 @@
 *Clockwork.esp
 *SkyrimsUniqueTreasures.esp
 *Artifacts.esp
-*ethereal_elven_overhaul.esp
 *CLARALUX SSE - ELFX DLC.esp
 *PrvtI_HeavyArmory.esp
 *DBM_HelgenReborn_Patch.esp
 *konahrik_accoutrements.esp
-*Qw_3DNPC_USSEP Patch.esp
 *Immersive Patrols II.esp
 *DBM_Vigilant_Patch.esp
 *SLPrivacy.esp
@@ -131,7 +126,6 @@
 *SOS - VectorPlexus Regular Addon.esp
 *InnRoomCosts.esp
 *3BBB-RaceMenuMorphs.esp
-*Cuyima 3DNPC - Redone.esp
 *RUSTIC SOULGEMS - Sorted.esp
 *Genuinely Intelligent Soul Traps - RUSTIC SOULGEMS Patch.esp
 *DeadlyDragons.esp
@@ -183,44 +177,13 @@
 *ZIA_WACCF_Patch.esp
 *SexLabTools.esp
 *SLAnimLoader.esp
-*AnubAnimObj.esp
-*SLAL_AnimationsByLeito.esp
-*SLAL_ProxyAnimObjects.esp
-*PsycheAnimationObjects.esp
-*SLALAnimObjBillyy.esp
-*SLAL_AnimationByBakaFactory.esp
 *SLA Monitor Widget.esp
 *SexLabDefeat.esp
 *Skyrim_Strap_Ons.esp
 *IcePenguinWorldMap.esp
-*WICO - Immersive Character.esp
-*WICO - Immersive People - CRF Patch.esp
-*The Ordinary Women.esp
-*EEO CRF patch.esp
-*EEO OBIS SE patch.esp
-*Metalsabers Beautiful Orcs of Skyrim.esp
-*FHH_LEGENDARY_VE_USSEP.esp
-*KaliliesNPCs.esp
-*Windsong Immersive Character Overhaul - Ethereal Elven Overhaul Patch.esp
-*KaliliesNPCs - CRF Patch.esp
-*PAN_NPCs.esp
-*PAN_NPCs_DB.esp
-*PAN_NPCs_DG.esp
-*Bijin_AIO-SV 2018.esp
-*eeekie's brynjolf.esp
-*eeekie's cicero.esp
-*eeekie's Jon Battle Born.esp
-*eeekie's Viarmo.esp
-*eeekie's Maven.esp
-*ModestElderly.esp
-*Qw_3DNPC_TheOrdinaryWomen Patch.esp
 *Qw_DeadlySpellImpacts_AOS Patch.esp
 *Qw_DeadlySpellImpacts_ISC Patch.esp
-*Qw_ISC_CRF Patch.esp
-*Qw_PANNPCs_CRF Patch.esp
 *Qw_RusticSoulgemsSorted_ISC Patch.esp
-*Qw_TheOrdinaryWomen_CRF Patch.esp
-*Qw_WICO_3DNPC Patch.esp
 *WACCF_KonahriksAccoutrements.esp
 *DBM_AOS_Patch.esp
 *Qw_WACCF_AOS Patch.esp
@@ -231,8 +194,6 @@
 *DBM_OBIS_Patch.esp
 *DBM_SMIM_Patch.esp
 *DBM_ZimsImmersiveArtifacts_Patch.esp
-*Imperious - Races of Skyrim.esp
-*EEO Imperious patch.esp
 *Trade & Barter.esp
 *DBM_TradeBarter_Patch.esp
 *Complete Crafting Overhaul_Remastered.esp
@@ -247,7 +208,6 @@
 *Complete Alchemy & Cooking Overhaul_CCOR_Patch.esp
 *Atlas Legendary.esp
 *Qw_CACO_AOS Patch.esp
-*CACO ethereal_elven_overhaul Patch.esp
 *CACO_Falskaar_Patch.esp
 *CACO_SkyrimImmersiveCreaturesSE_Patch.esp
 *OMEGA SIC CACO Patch.esp
@@ -266,6 +226,39 @@
 *CCOR_Ordinator.esp
 *Sacrosanct - Vampires of Skyrim.esp
 *OMEGA Sacrosanct CACO Patch.esp
+*Imperious - Races of Skyrim.esp
+*Qw_ISC_CRF Patch.esp
+*Qw_3DNPC_USSEP Patch.esp
+*Cuyima 3DNPC - Redone.esp
+*WICO - Immersive People.esp
+*WICO - Immersive People - USSEP Patch.esp
+*WICO - Immersive People - CRF Patch.esp
+*Qw_WICO_3DNPC Patch.esp
+*WICO - Immersive Character.esp
+*Metalsabers Beautiful Orcs of Skyrim.esp
+*ethereal_elven_overhaul.esp
+*Windsong Immersive Character Overhaul - Ethereal Elven Overhaul Patch.esp
+*EEO CRF patch.esp
+*EEO OBIS SE patch.esp
+*EEO Imperious patch.esp
+*CACO ethereal_elven_overhaul Patch.esp
+*FHH_LEGENDARY_VE_USSEP.esp
+*The Ordinary Women.esp
+*Qw_TheOrdinaryWomen_CRF Patch.esp
+*Qw_3DNPC_TheOrdinaryWomen Patch.esp
+*KaliliesNPCs.esp
+*KaliliesNPCs - CRF Patch.esp
+*PAN_NPCs.esp
+*PAN_NPCs_DG.esp
+*PAN_NPCs_DB.esp
+*Qw_PANNPCs_CRF Patch.esp
+*Bijin_AIO-SV 2018.esp
+*eeekie's Maven.esp
+*eeekie's Viarmo.esp
+*eeekie's Jon Battle Born.esp
+*eeekie's brynjolf.esp
+*eeekie's cicero.esp
+*ModestElderly.esp
 *Alternate Start - Live Another Life.esp
 *MajesticMountains.esp
 *BetterQuestObjectives-AlternateStartPatch.esp
@@ -273,28 +266,19 @@
 *nwsFollowerFramework.esp
 *ELE_SSE.esp
 *ELE Merge.esp
-ELE_SSE_CRF.esp
-ELE_SSE_Falskaar.esp
-ELE_SSE_HR.esp
-ELE_SSE_LotD.esp
-ELE-ELFX Patch AIO.esp
-Qw_ELE_CRF Patch.esp
 *RealisticWaterTwo.esp
-*RealisticWaterTwo - Watercolor.esp
-*RealisticWaterTwo - Falskaar.esp
-*RealisticWaterTwo - Waves - Falskaar.esp
-*RealisticWaterTwo - Waves - Wyrmstooth.esp
-*Qw_ELE_RW2 Patch.esp
-*RealisticWaterTwo - ELFX Patch.esp
+*RWT Merge.esp
+*AnimObjects Merge.esp
 *Modern Brawl Bug Fix.esp
 *Bashed Patch, 0.esp
 *Smashed Patch.esp
-*Qw_ELE_RW2_Override.esl
-*Vampire Override.esp
-*Navemeshes.esp
 *Navmesh42245.esp
 *Navmesh9032.esp
 *NavmeshBDC9.esp
 *MoveObjects.esp
-*DynDOLOD.esp
-*Occlusion.esp
+*Navemeshes.esp
+*Vampire Override.esp
+*Eeekie + NordRace.esp
+*HairColorList.esp
+*Eeekie + HairColorList.esp
+*Eeekie + EEO.esp
