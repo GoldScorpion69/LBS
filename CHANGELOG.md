@@ -1,5 +1,13 @@
 ## Changelog
 
+### 0.1.3.3
+
+Removed both IFPV and Alternate Camera because I don't like playing with them. The BodySlides are now in the right place for those of you who want to just jump in and play with a "full bounce kit"
+
+### 0.1.3.2
+
+Ran the Book of CBBE to the wrong output folder, so it wasn't updated with my preset. Corrected.
+
 ### 0.1.3.1
 
 Eeekie's released a new version just as I released 0.1.3, so I updated that. Forgot to mention I have removed Maids II due to navmesh conflicts and crashes with LODs. Lotus should have it though!

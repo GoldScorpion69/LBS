@@ -220,7 +220,6 @@
 +Splendor - Dragon Variants SE
 +Diverse Dragons Collection SE (DDCse)
 -Encounters_separator
--Physics_separator
 +RaceMenu Special Edition
 -Chargen_separator
 +Wispmother.by.Kajuan
@@ -357,9 +356,7 @@
 +Extended UI
 +UIExtensions
 -UI + HUD_separator
-+Alternate Conversation Camera
-+Immersive First Person View
--Camera_separator
+-Immersive First Person View
 +Celtic Music In Skyrim SE - Dungeon
 +Celtic Music In Skyrim SE - Combat
 +Celtic Music in Skyrim - SE
@@ -398,13 +395,13 @@
 +I'm Walkin' Here
 +Whose Quest Is It Anyway
 +Fuz Ro D-oh - Silent Voice
-+(SKSE64) Havok Fix
 +SSE Parallax Shader Fix (BETA)
 +Copy and Paste in Console
 +Stay At The System Page - Updated
 +More Informative Console
 +PrivateProfileRedirector SE - Faster game start (INI file cacher)
 +ConsoleUtilSSE
++SSE Display Tweaks
 +SSE Engine Fixes (skse64 plugin)
 +Address Library for SKSE Plugins
 -SKSE Plugins_separator

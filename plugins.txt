@@ -180,7 +180,6 @@
 *SLA Monitor Widget.esp
 *SexLabDefeat.esp
 *Skyrim_Strap_Ons.esp
-*IcePenguinWorldMap.esp
 *Qw_DeadlySpellImpacts_AOS Patch.esp
 *Qw_DeadlySpellImpacts_ISC Patch.esp
 *Qw_RusticSoulgemsSorted_ISC Patch.esp
@@ -227,6 +226,7 @@
 *Sacrosanct - Vampires of Skyrim.esp
 *OMEGA Sacrosanct CACO Patch.esp
 *Imperious - Races of Skyrim.esp
+*IcePenguinWorldMap.esp
 *Qw_ISC_CRF Patch.esp
 *Qw_3DNPC_USSEP Patch.esp
 *Cuyima 3DNPC - Redone.esp
