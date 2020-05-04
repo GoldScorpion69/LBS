@@ -243,9 +243,6 @@
 *EEO Imperious patch.esp
 *CACO ethereal_elven_overhaul Patch.esp
 *FHH_LEGENDARY_VE_USSEP.esp
-*The Ordinary Women.esp
-*Qw_TheOrdinaryWomen_CRF Patch.esp
-*Qw_3DNPC_TheOrdinaryWomen Patch.esp
 *KaliliesNPCs.esp
 *KaliliesNPCs - CRF Patch.esp
 *PAN_NPCs.esp
@@ -282,3 +279,5 @@
 *HairColorList.esp
 *Eeekie + HairColorList.esp
 *Eeekie + EEO.esp
+Missives NPCs.esp
+RWT Forward.esp

@@ -41,9 +41,9 @@
 +Babo Human 2019.11.08 SE
 +SLAL ProxyAnims SE v2.2
 +MilkySLAL-1-8
++Billyy's SLAL Animations 3.2
 +Anub Human 12.2019
 +SLAL Animations by Leito v1.6
-+Billyy's SLAL Animations 3.1
 -SexLab Animations_separator
 +SexLabArousedSSELoose
 +Modern Brawl Bug Fix
@@ -76,7 +76,6 @@
 +Imperious - Races of Skyrim
 +Thief Skills Rebalance for Ordinator
 +Ordinator - Perks of Skyrim
-+Skyrim Skill Uncapper .ini for Ordinator
 +Skyrim Skill Uncapper
 +Lexy's Experience ini
 +Experience-17751-1-1-0-1580493054
@@ -157,7 +156,6 @@
 +Bijin Family - Salt and Wind Textures SE
 +Pandorable's NPCs Dawnguard SE - Salt and Wind Textures
 +Pandorable's NPCs SE - Salt and Wind Textures
-+The Ordinary Women - Salt and Wind Textures SE
 +Salt and Wind - Rough Hair for KS Hairdos SE
 +Salt and Wind - ApachiiSkyHairMale SE v1.2 Retexture
 +Salt and Wind - ApachiiSkyHairFemale SE v1.5 Retexture
@@ -187,8 +185,6 @@
 +Pandorable's NPCs
 +Kalilies NPCs - Cutting Room Floor Patch
 +Kalilies NPCs
-+The Ordinary Women SSE 3.0 USSEP
-+The Ordinary Women SSE
 +Followers Hirelings and Housecarls SSE
 +Metalsabers Beautiful Orcs of Skyrim
 +EEO - Organized Bandits In Skyrim Special Edition patch
@@ -341,6 +337,7 @@
 +SLAL_SE
 +Patched SE SL TOOLS Updated
 +opparco mfg Command for SSE
++betterblowjob
 +SexLabFrameworkSE_v163_BETA8
 -SexLab Frameworks_separator
 +AddItemMenu - Ultimate Mod Explorer
@@ -356,7 +353,7 @@
 +Extended UI
 +UIExtensions
 -UI + HUD_separator
--Immersive First Person View
+-Camera_separator
 +Celtic Music In Skyrim SE - Dungeon
 +Celtic Music In Skyrim SE - Combat
 +Celtic Music in Skyrim - SE
