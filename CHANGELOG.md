@@ -1,5 +1,13 @@
 ## Changelog
 
+### 0.1.3.6
+
+Tsuki's Book of CBBE 3BBB updated, so I included the changes. Please report any clipping, physics or other bugs with these armors in your very favorite Discord channel: ours!
+
+### 0.1.3.5
+
+Billyy's Animation Pack updated, so the changes have been implemented in this version.
+
 ### 0.1.3.3
 
 Removed both IFPV and Alternate Camera because I don't like playing with them. The BodySlides are now in the right place for those of you who want to just jump in and play with a "full bounce kit"
