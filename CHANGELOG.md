@@ -1,5 +1,9 @@
 ## Changelog
 
+### 0.1.4
+
+An animation pack was taken down so I had to remove that. Also rearranged some of my ESPs and merges. New game required. Don't update if you don't want to start over.
+
 ### 0.1.3.6
 
 Tsuki's Book of CBBE 3BBB updated, so I included the changes. Please report any clipping, physics or other bugs with these armors in your very favorite Discord channel: ours!

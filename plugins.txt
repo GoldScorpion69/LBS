@@ -17,6 +17,7 @@
 *Schlongs of Skyrim - Core.esm
 *JSwords.esm
 *FISS.esp
+*DynDOLOD.esm
 *AHZmoreHUDInventory.esl
 *FNIS.esp
 *SkyUI_SE.esp
@@ -83,9 +84,6 @@
 *DSer360MovementBehavior.esp
 *UltimateCombat.esp
 *NoBSAIProjectileDodge.esp
-*Audio Overhaul Skyrim - Enhanced Blood Patch.esp
-*ISC Enhanced Blood Patch.esp
-*Audio Overhaul Skyrim - Immersive Sounds Patch.esp
 *BetterQuestObjectives - LOTD Patch.esp
 *AMB Glass Variants Lore.esp
 *Differently Ebony.esp
@@ -105,17 +103,11 @@
 *Artifacts.esp
 *CLARALUX SSE - ELFX DLC.esp
 *PrvtI_HeavyArmory.esp
-*DBM_HelgenReborn_Patch.esp
 *konahrik_accoutrements.esp
 *Immersive Patrols II.esp
-*DBM_Vigilant_Patch.esp
 *SLPrivacy.esp
-*DBM_IW_Patch.esp
-*Audio Overhaul Skyrim - Immersive Weapons Patch.esp
 *Sum_WACCF_Patch.esp
 *Qw_WACCF_CRF Patch.esp
-*DBM_CRF_Patch.esp
-*DBM_WACCF_Patch.esp
 *Qw_WACCF_ISC Patch.esp
 *aMidianborn_Skyforge_Weapons.esp
 *BetterQuestObjectives-AMBSkyforgePatch.esp
@@ -134,34 +126,20 @@
 *Raven Rock - Fix Exit on Horseback.esp
 *ForgottenCity.esp
 *Moonpath Sky and Lightning Fix.esp
-*DBM_MAS_Patch.esp
 *Missives.esp
 *WheelsOfLull.esp
 *WheelsOfLull - Forgotten City Patch.esp
-*DBM_ZimsThaneWeapons_Patch.esp
-*DBM_Falskaar_Patch.esp
-*DBM_KA_Patch.esp
-*DBM_SkyrimUnderground_Patch.esp
 *The Paarthurnax Dilemma.esp
 *BetterQuestObjectives-PaarDilemmaPatch.esp
 *Missives - Solstheim.esp
-*DBM_TheGrayCowlofNocturnal_Patch.esp
-*DBM_Wyrmstooth_Patch.esp
 *SexLab Eager NPCs.esp
-*DBM_SUT_Patch.esp
-*DBM_Clockwork_Patch.esp
-*DBM_WheelsofLull_Patch.esp
 *CLARALUX SSE - USSEP.esp
 *OBIS SE Patrols Addon.esp
 *VolumeticMistsSolstheim.esp
-*DBM_ArtifactsofSkyrim_Patch.esp
-*DBM_ForgottenCity_Patch.esp
-*DBM_Moonpath_Patch.esp
 *Falskaar - Fast Travel.esp
 *Falskaar - Bug Fixes.esp
 *Missives - Falskaar Patch.esp
 *Apocalypse - Magic of Skyrim.esp
-*WoLPatch-DBM.esp
 *VolumeticMists.esp
 *FireBurns.esp
 *Gray Cowl of Nocturnal - Unofficial Patch.esp
@@ -184,47 +162,17 @@
 *Qw_DeadlySpellImpacts_ISC Patch.esp
 *Qw_RusticSoulgemsSorted_ISC Patch.esp
 *WACCF_KonahriksAccoutrements.esp
-*DBM_AOS_Patch.esp
 *Qw_WACCF_AOS Patch.esp
-*DBM_ELFX_Patch.esp
-*DBM_HA_Patch.esp
-*DBM_ISC_Patch.esp
-*DBM_JaysusSwords_Patch.esp
-*DBM_OBIS_Patch.esp
-*DBM_SMIM_Patch.esp
-*DBM_ZimsImmersiveArtifacts_Patch.esp
 *Trade & Barter.esp
-*DBM_TradeBarter_Patch.esp
 *Complete Crafting Overhaul_Remastered.esp
-*Immersive Weapons_CCOR_Patch.esp
-*PrvtI_HeavyArmory_CCOR_Patch.esp
-*CCOR_JSwords_Patch.esp
-*CCOR_JSwords_PrvtI_HeavyArmory_Patch.esp
-*DBM_CCOR_Patch.esp
 *Complete Alchemy & Cooking Overhaul.esp
-*OMEGA AOS CACO Patch.esp
-*OMEGA WACCF CACO Patch.esp
-*Complete Alchemy & Cooking Overhaul_CCOR_Patch.esp
 *Atlas Legendary.esp
-*Qw_CACO_AOS Patch.esp
-*CACO_Falskaar_Patch.esp
-*CACO_SkyrimImmersiveCreaturesSE_Patch.esp
-*OMEGA SIC CACO Patch.esp
-*Qw_CACO_3DNPC Patch.esp
-*CACO_Wyrmstooth_Patch.esp
-*CACO_Moonpath_Patch.esp
-*CACO_GrayCowl_Patch.esp
-*CACO_USSEP_Patch.esp
-*DBM_CACO_Patch.esp
 *OMEGA LOTD CACO.esp
 *Ordinator - Perks of Skyrim.esp
 *Apocalypse - Ordinator Compatibility Patch.esp
 *CLARALUX SSE - Ordinator.esp
 *Qw_Ordinator_AOS Patch.esp
-*CACO_Ordinator_Patch.esp
-*CCOR_Ordinator.esp
 *Sacrosanct - Vampires of Skyrim.esp
-*OMEGA Sacrosanct CACO Patch.esp
 *Imperious - Races of Skyrim.esp
 *IcePenguinWorldMap.esp
 *Qw_ISC_CRF Patch.esp
@@ -241,7 +189,6 @@
 *EEO CRF patch.esp
 *EEO OBIS SE patch.esp
 *EEO Imperious patch.esp
-*CACO ethereal_elven_overhaul Patch.esp
 *FHH_LEGENDARY_VE_USSEP.esp
 *KaliliesNPCs.esp
 *KaliliesNPCs - CRF Patch.esp
@@ -261,23 +208,24 @@
 *BetterQuestObjectives-AlternateStartPatch.esp
 *CLARALUX SSE - LAL.esp
 *nwsFollowerFramework.esp
+*Audio Merged.esp
+*Navmesh Fixes Merge.esp
+*CCOR Patches Merged.esp
+*CACO Patches Merged.esp
+*DBM Merged.esp
 *ELE_SSE.esp
 *ELE Merge.esp
 *RealisticWaterTwo.esp
 *RWT Merge.esp
+*NPCs Patches Merge.esp
 *AnimObjects Merge.esp
 *Modern Brawl Bug Fix.esp
 *Bashed Patch, 0.esp
 *Smashed Patch.esp
-*Navmesh42245.esp
-*Navmesh9032.esp
-*NavmeshBDC9.esp
 *MoveObjects.esp
-*Navemeshes.esp
+*RWT Forward.esp
 *Vampire Override.esp
-*Eeekie + NordRace.esp
-*HairColorList.esp
-*Eeekie + HairColorList.esp
-*Eeekie + EEO.esp
-Missives NPCs.esp
-RWT Forward.esp
+*DBM Consistency.esp
+*ShoalsRestFlickerpatch.esp
+*DynDOLOD.esp
+*Occlusion.esp
