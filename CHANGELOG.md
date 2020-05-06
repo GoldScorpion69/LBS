@@ -1,8 +1,8 @@
 ## Changelog
 
-### 0.1.4
+### 0.1.4.0
 
-An animation pack was taken down so I had to remove that. Also rearranged some of my ESPs and merges. New game required. Don't update if you don't want to start over.
+An animation pack was taken down so I had to remove that. Also rearranged some of my ESPs and merges. New game required. Don't update if you don't want to start over. Please note: I mistakenly included my MO2 INI so you may get some invalid directory errors. If that happens delete ModOrganizer.ini in the main directory and try again. Be sure to put it in Portable mode for Skyrim SE and skip the tutorials.
 
 ### 0.1.3.6
 
