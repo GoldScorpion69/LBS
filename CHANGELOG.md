@@ -1,12 +1,16 @@
 ## Changelog
 
+### 0.1.4.1
+
+Finally got the 3BA version of Bad Dog's in here, complete with zaps for all the naughty bits. Switched to Serio - Cathedral ENB so the Cathedral Weathers MCM actually does something now. The CLARALUX Testing Facility also has a more dramatic effect if you want to stop by there to customize the lighting.
+
 ### 0.1.4.0
 
 An animation pack was taken down so I had to remove that. Also rearranged some of my ESPs and merges. New game required. Don't update if you don't want to start over. Please note: I mistakenly included my MO2 INI so you may get some invalid directory errors. If that happens delete ModOrganizer.ini in the main directory and try again. Be sure to put it in Portable mode for Skyrim SE and skip the tutorials.
 
 ### 0.1.3.6
 
-Tsuki's Book of CBBE 3BBB updated, so I included the changes. Please report any clipping, physics or other bugs with these armors in your very favorite Discord channel: ours!
+Tsuki's Book of CBBE 3BBB updated, so I included the changes. Please report any clipping, physics or other bugs with these armors on that modpage.
 
 ### 0.1.3.5
 

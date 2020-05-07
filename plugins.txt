@@ -17,7 +17,6 @@
 *Schlongs of Skyrim - Core.esm
 *JSwords.esm
 *FISS.esp
-*DynDOLOD.esm
 *AHZmoreHUDInventory.esl
 *FNIS.esp
 *SkyUI_SE.esp
@@ -227,5 +226,3 @@
 *Vampire Override.esp
 *DBM Consistency.esp
 *ShoalsRestFlickerpatch.esp
-*DynDOLOD.esp
-*Occlusion.esp

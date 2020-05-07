@@ -2,9 +2,11 @@
 
 **This Modlist contains mods with sexual content and you need to be of legal age in your country (most western countries: 18+, some eastern ones: 21+)**.
 
-Hello, my name is Cacophony and I got into modding as a pimply teenager simply because I wanted to see naked women. For a long time that was my only goal. Then I discovered the communities surrounding Skyrim. From there I branched out, building the TUCOGUIDE, Lexy, morphing Lexy into LOTD Plus, and finally discovering Wabbajack and spending almost all of my time either starting a new list or changing one I or someone else had made. When I tried to integrate Lover's Lab content to combine my two modding passions, I found out through much pain and torture that usually porn doesn't work well with playing Skyrim and playing Skyrim doesn't mesh well with playing porn and I lacked the skill to change that. So I solved it by simply paring back my ambitions. As a novice modder I tried to do too much with my builds: combine full survival-style Skyrim with a ton of realistic sexuality simulations, or pile in Lover's Lab frameworks to make my experience as _muh immersion_ sexy as possible. None of these ever worked for me, so instead I offer you a more humble list intended for maximum stability and ease of play.
+Hello, my name is Cacophony and I got into modding as a pimply teenager simply because I wanted to see naked women. Then I discovered the communities surrounding Skyrim. From there I branched out, building the TUCOGUIDE, Lexy, switching Lexy into LOTD Plus, and finally discovering Wabbajack and spending almost all of my time either starting a new list or changing one I or someone else had made. 
 
-If you want the gist of what this horribly cribbed modlist is, it grew out of the two most common questions I heard in the Lexy Discord's NSFW channel: how do I add SexLab to this? And: how do I switch the body to CBBE? I quickly came to realize that you don't do either of these things... unless you want a broken list that would have been more easily built from the ground up. So I did just that, keeping the parts of Lexy that I liked (which was the vast majority of it), throwing in a few other things to the mix, and adding some options to sex things up for both male and female characters. While not intended as a replacement for a full-featured list like Lotus or a screenshot-posing oriented list like Cupid, Light But Sexy serves perfectly as a small, resource-friendly modlist requiring few updates that will provide an option for simple sexy play when other modlists are unavailable. Without further ado I present to you Light But Sexy: To Tide You Over.
+When I tried to integrate Lover's Lab with my new modding passion, I found out through much pain and torture that usually porn doesn't work well with playing Skyrim and playing Skyrim doesn't mesh well with playing porn simply because of the vast incompatibilities between adult mods as well as scripting inexperience or inefficiency on behalf of the modders themselves. I am no coder, so I solved this problem by simply paring back my ambitions. As a novice modder I tried to do too much with my builds: combine full survival-style Skyrim with a ton of realistic sexuality simulations, or pile in Lover's Lab frameworks to make my experience as _immersive_ as possible. None of these ever worked for me, so instead I offer you a more humble list intended for maximum stability and ease of play.
+
+If you want the gist of what this horribly cribbed modlist is, it grew out of the two most common questions I heard in the Lexy Discord's NSFW channel: how do I add SexLab to this? And: how do I switch the body to CBBE? I quickly came to realize that you don't do either of these things... unless you want a broken list that would have been more easily built from the ground up. So I did just that, keeping the parts of Lexy that I liked (which was the vast majority of it), throwing in a few other things to the mix, and adding some options to sex things up for both male and female characters. While not intended as a replacement for a full-featured list like Lotus or a screenshot-posing oriented list like Cupid, Light But Sexy serves perfectly as a small, resource-friendly modlist that will provide an option for simple sexy play when other modlists are unavailable. Without further ado I present to you Light But Sexy: To Tide You Over.
 
 ## Requirements
 
@@ -12,11 +14,13 @@ It's recommended that you sign up for a Premium account on Nexus for five bucks 
 
 Otherwise you'll have to download every file manually and put it in the right folder.
 
+Think of it this way: this list will probably take you at least three hours to install manually, so by skipping the Premium subscription you have basically paid yourself less than $2 an hour.
+
 Also you'll need a Lover's Lab account (http://loverslab.com)
 
 ### System Specs
 
-A note here. I use a 1080p monitor and I suspect the vast majority looking to play Skyrim in this day and age do too. So this modlist is geared toward two things: low VRAM usage and quick load times. Running the Skyrim Performance Monitor shows me that LBS only uses at most 6 GB of RAM and 6 GB of VRAM. You shouldn't need more than a midrange CPU and GPU from the last 5 years along with 8 GB VRAM and maybe 16 GB RAM (might could get away with 8). Strongly recommended is a solid state drive with at least 100 GB for the game itself and 50GB for the downloads (unless you never plan to update). This is not because load times are terrible on an HDD. Hashing with WJ for updates is a pain though.
+A note here. I use a 1080p monitor and I suspect the vast majority looking to play Skyrim in this day and age do too. So this modlist is geared toward two things: low VRAM usage and quick load times. Running the Skyrim Performance Monitor shows me that LBS only uses at most 6 GB of RAM and 6 GB of VRAM. You shouldn't need more than a midrange CPU and GPU from the last 5 years along with 8 GB VRAM and maybe 16 GB RAM (might could get away with 8). Strongly recommended is a solid state drive with at least 80 GB for the game itself and 50GB for the downloads (unless you never plan to update). This is not because load times are terrible on an HDD. Hashing with WJ for updates is a pain though.
 
 ### Pre-Installation
 
@@ -24,7 +28,7 @@ These steps are only needed if you install this Modlist for the first time.
 
 ##### Change some Steam stuff
 
-Right-click on Skyrim SE in your Steam library, choose Properties, uncheck _Enable the Steam Overlay while in-game_. While you're there, click the Updates tab and change it to _Only update this game when I launch it_. We will basically never launch Skyrim normally, it will always be via the script extender, so your game will never update. Finally, Wabbajack only supports the English version of Skyrim. If it's set to something else, go to the Language tab and switch it to English.
+Click the Steam menu in the upper left corner, click Settings, click _In-Game_ on the left pane, uncheck _Enable the Steam Overlay while in-game_. While you're there, click the Updates tab and change it to _Only update this game when I launch it_. We will basically never launch Skyrim normally, it will always be via the script extender, so your game will never update. Finally, Wabbajack only supports the English version of Skyrim. If it's set to something else, go to the Language tab and switch it to English.
 
 ##### Clean Skyrim
 
@@ -40,11 +44,11 @@ Then start the game and exit when you see the main menu (New Game, etc)
 
 ### Using Wabbajack
 
-First get the latest version of LSM from https://drive.google.com/drive/folders/19cui-oVdXXTHIhcl8n6wfeq9D0CJQMKR.
+First get the latest version of LBS from https://drive.google.com/drive/folders/19cui-oVdXXTHIhcl8n6wfeq9D0CJQMKR.
 
 Download it to wherever you keep your downloads.
 
-LSM is now fully compatible with Wabbajack 2.0, the latest version. Get it from http://wabbajack.org
+LBS is now fully compatible with Wabbajack 2.0.3.0, the latest version. Get it from http://wabbajack.org
 
 When you launch it, select to install _From Disk_ and point to the .wabbajack file you downloaded above.
 
@@ -62,15 +66,15 @@ The download and installation process can take a very long time depending on you
 
 ##### Problems with Wabbajack
 
-If you have a problem, exit Wabbajack, give it the old off and then on again, and try running it again. Only then should you ask for help.
+If you have a problem, exit Wabbajack and try running it again. Only then should you ask for help.
 
 **Could not download x**:
 
-If a file could not download or is not whitelisted, the modlist needs to be updated. You're going to have to wait on me. :(
+If a file could not download or is not whitelisted, the modlist needs to be updated. You're going to have to wait on me.
 
 **Wabbajack could not find my game folder**:
 
-You paid for Skyrim didn't you? If not, go buy it off Steam and try again.
+Make sure you ran the launcher at least once. If that doesn't work, please be sure you are playing only a legal Steam copy. If not, go buy it off Steam and try again.
 
 #### Game Folder Files
 
@@ -80,7 +84,15 @@ Finally, copy all of the files from the _game folder files_ directory inside the
 
 ## A note on BodySlide
 
-My closest friend and I created a meticulously crafted default BodySlide preset. The "1 weight" or overweight variation is a voluptuous, nipply interpretation of the CBBE 3BBB default body. The "0 weight" or underweight variation is a play on the CBBE Petite theme. This allows for variation among NPCs similar to what the designers intended. In short, lightweight NPCs will be petite and heavyweight NPCs will be thicc, with all sorts of variations in between. The morph files included for this preset with all the armor variations comprise the majority of the huge Wabbajack file. At least examine the body in RaceMenu and see if you like it before you toss it. If not, no worries! You can rebuild the bodies and armors to your liking. Be sure to tick everything in the groups menu except the CBBE variations. Make sure you get unassigned, as well.
+My closest friend and I created a meticulously crafted default BodySlide preset. The "1 weight" or overweight variation is a voluptuous, nipply interpretation of the CBBE 3BBB default body. The "0 weight" or underweight variation is a play on the CBBE Petite theme. This allows for variation among NPCs similar to what the designers intended. In short, lightweight NPCs will be petite and heavyweight NPCs will be thicc, with all sorts of variations in between. 
+
+With the addition of _Bad Dog 3BBB_ and _3BA_ and Tsuki's _Book of 3BBB_ the morphs for all those armors got to be over 5 GB in size, so I have left them unbuilt. You will have to run BodySlide on your own or weird stuff will happen. To do so launch it from the _Executables_ menu on the right, Select _Choose Groups_ from the magnifying glass dropdown, and check the boxes for _3BBB_, _BD 3BBB Amazing_, _Bijin Family_ and _Book of CBBE_. Choose the body you want from the _Preset_ menu. (You can see what it looks like by hitting the **Preview** button, I recommend the one called "3BBB HangEmHigh." If you want everybody to be close to the same dimensions, choose a different preset.) 
+
+Whether or not you build morphs depends on whether you want to be able to tweak your body at any time in-game with the racemenu. There is nothing in this modlist to make your boobs grow, or your butt get phat, or anything like that, so if you can settle with creating your body in BodySlide the weight slider will be enough and you'll save about 2GB of hard drive space. Now hit _Batch build_ in the lower left. You will be presented with a dizzying array of options. (Sorry, not up to me.) If given a choice between 3BA or 3BF, choose 3BA. Otherwise 3BF is fine. Hair color depends on what color hair you want poking out of helmets so roleplay it out.
+
+Finally, if you want to make your game even sluttier, you can use the wonderful zaps option! Pick one of the "BD" armors and note the check boxes just below the dropdowns. You can check them to remove those pieces from the suit! So you could make the set topless, bottomless, or both. Sadly this doesn't work for the Book of CBBE armors and you'll be seeing a lot of those. Also you'll have to do every zap yourself. My suggestion is to wait until you get an armor you like, zap it, then build only that armor for yourself.
+
+On the other hand, if you're playing in mixed company and want your armor to be _less_ slutty, I'm afraid you're out of luck. Earlier versions of the modlist had that option but it has grown since then. If you want Skyrim with just a touch of romance mention it but not a lot of overt nudity, mention it in the NSFW channel and maybe I'll make a variation if it gets popular enough.
 
 ## Updating
 
@@ -96,7 +108,7 @@ Updating is like installing. You only have to make sure that you select the same
 
 I'm not going to get deep into the weeds on all the mods included because quite frankly there's not anywhere near the amount of detail in this list as a lot of them and I don't think most of the people seeking to try this have a desire to read much about it. But here I will note a few things. My primary goal in creating this list was to play a super expanded LOTD with almost all of the huge worldspace mods like Falskaar, Wyrmstooth, Vigilant, etc included. I also wanted plenty of weapons and items to find organically without adding a bunch of collectibles that don't appeal to me. Now that one of our very own Wabbajack regulars has converted the massive _Book of UUNP_ to the CBBE 3BBB bodytype, this modlist includes hundreds of female armor variations in different stages of lewdness. Most of the visuals, character development and gameplay mechanics are either cribbed from Lexy or strongly resemble Lexy with the exception of TUDM The Ultimate Dodge Mod. I guess that's all I have to say about that.
 
-I did NOT include creature support because I wanted to use the Nemesis Behavior Engine without having to shoehorn FNIS in there too. I also did not include Devious Devices or any of its soft dependencies like Cursed Loot because only someone with more modding experience than me would know how to get those to stay stable in the long term. Hell I've run a list with nothing but ZaZ, DD, and Cursed Loot on Oldrim (their native soil) and have my save crap itself with guards attacking me in an infinite bondage prison loop within 12 hours of starting a new game so ¯\_(ツ)_/¯
+I did NOT include creature support because I wanted to use the Nemesis Behavior Engine without having to shoehorn FNIS in there too. I also did not include Devious Devices or any of its soft dependencies like Cursed Loot because only someone with more scripting experience than me would know how to rewrite those mods to stay stable in the long term. Hell I've run a list with nothing but ZaZ, DD, and Cursed Loot on Oldrim (their native soil) and have my save crap itself with guards attacking me in an infinite bondage prison loop within 12 hours of starting a new game so ¯\_(ツ)_/¯
 
 ### Be A Casanova, Not A Maquis De Sade
 
@@ -104,15 +116,15 @@ The primary and most visible SexLab mods you'll be able to see are Amorous Adven
 
 ### Defeat
 
-Defeat is a terrible mod. Even after BakaFactory got his hands on it. But it's in here because we're all apes and want to assert or receive dominance. I have most of it disabled because it breaks too often and forces a reload. About the only things left active in my setup are the ability to "surrender" with the _K_ key, or assault people with the _G_ key as per Defeat's description. Do them early because the script delay is godawful. If you want to enable more of it feel free, but be prepared for situations such as being stuck to the ground, unable to move, or unable to interact with anything or open your inventory. If you play a whole game without any of these happening I am curious to know what sorcery you used.
+Defeat is a terrible mod. Even after BakaFactory got his hands on it. But it's in here because we're all apes and want to assert or receive dominance. I have most of it disabled because it breaks too often and forces a reload. About the only things left active in my setup are the ability to "surrender" with the _K_ key, or assault people with the _G_ key as per Defeat's description. Do them early because the script delay is godawful. If you want to enable more of it feel free, but be prepared for situations such as being stuck to the ground, unable to move, stuck to the ground _and_ unable to move, or unable to interact with anything or open your inventory. If you play a whole game without any of these happening I am curious to know what sorcery you used.
 
 ### General Skyrim Gameplay
 
-Most of the actual non-sexual content of this modlist is cribbed, again, from Lexy so if you're at all familiar with that setup you'll be right at home here. I will mention that the "CLARALUX Research Facility" has been left in and I encourage you to go there and turn up the radius and brightness of the game's lanterns and torches... it's far more believable and playable that way than pretending everyone in Skyrim constantly stumbles around in pitch blackness during the night-time. It's just north of Riverwood and available via fast travel from the beginning of the game. One thing I did add was the Ultimate Dodge Mod for a script-free instantaneous dodge roll. One thing I left out was the tedium of Needs mods and the ridiculous punishing difficulty of trios of level 35 Draugr Overlords in the first dungeon screaming Fus Ro Dah at you every three seconds. I did make sure CACO and CCOR work for the fun of building lotsa stuff that's overpowered.
+Most of the actual non-sexual content of this modlist is cribbed, again, from Lexy so if you're at all familiar with that setup you'll be right at home here. I will mention that the "CLARALUX Research Facility" has been left in and play around with the lighting options to get a combination you like. The _Cathedral Weathers_ MCM offers overall customizations that have huge effects, _CLARALUX_ is more like a minor tweaking system. The building is just north of Riverwood and available via fast travel from the beginning of the game. One thing I did add was the Ultimate Dodge Mod for a script-free instantaneous dodge roll. One thing I left out was the tedium of Needs mods and the ridiculous punishing difficulty of trios of level 35 Draugr Overlords in the first dungeon screaming Fus Ro Dah at you every three seconds. I did make sure CACO and CCOR work for the fun of building lotsa stuff that's overpowered.
 
 ### Bodies and NPCs
 
-For the bodies I used CBBE 3BBB. Apparently the "infinite belly" problem has been fixed with CBPC 1.3.6 so feel free to leave HDT-SMP active on the player if you want. You can also turn SMP on various NPC's with numpads 5-8 but it will reset their equipment to default. So do it before you start a scene or it'll get a lot more modest.  For NPCs, it's your traditional WICO, Pandorables, Bijin combo, only I added a few of Eeekie's (especially that crafty Cicero) on top. This may introduce the possibiility of BFBs (brown face bugs) so please tell me if you see any of those so I can patch them out. Finally, everyone wearing vanilla clothes or armor has been outfitted with much sexier gear. It's not as in-your-face as my previous build, just so I could have a little variety, but the list is still decidedly unwelcome among mixed company. Play it alone! If you want to hide your shame, or simply muh immersion at the idea of Mjoll walking around with all four cheeks on display, stop by NSFW and I'll tell you how to get everyone to cover up their meat. The armor from the worldspace mods like Falskaar has been left unchanged.
+For the bodies I used CBBE 3BBB. Apparently the "infinite belly" problem has been fixed with CBPC 1.3.6 so feel free to leave HDT-SMP active on the player if you want. You can also turn SMP on various NPC's with numpads 5-8 but it will reset their equipment to default. So do it before you start a scene or it'll get a lot more modest.  For NPCs, it's your traditional WICO, Pandorables, Bijin combo, only I added a few of Eeekie's (especially that crafty Cicero) on top. This may introduce the possibiility of BFBs (brown face bugs) so please tell me if you see any of those so I can patch them out.
 
 ### Followers
 
@@ -124,9 +136,11 @@ The vanilla start _should_ work for those who care about that kinda thing or for
 
 Finally, after 3DNPC and LOTD updated and I realized I'd have to pare through two dozen of my custom modgroups to resolve all my conficts, I decided to abandon The Method. Instead we have a Bash + Smash combo with a few hand edits for stuff I found intolerable. If this is greek to you don't worry about it. The only thing the enduser might notice is that its harder to remove stuff since the Smash Patch has so many masters.
 
+I did receive a few requests to remove Ultimate Dodge and that does not interact with anything so I left it out of the patches this time. If you don't like the Ultimate Dodge Mod just uncheck it and the Ultimate Dodge reanimated and rerun Nemesis from the _Executables_ menu. Be sure to tick _360 Movement Behavior SE_, _Gender Specific Animations_ and _Ultimate Combat_ and **Update** before you **Launch.**
+
 ## Game MCM Options
 
-None of this is written in stone, these are just the settings I use. Play freely with great abandon on all the sexy stuff. Consider carefully any gameplay changes because with just a couple of them you can make things either really hard or really easy. I myself don't have the balance perfect, bandits and dragons crush me but I generally walk through everything else.
+None of this is written in stone, these are just the settings I use. Play with great abandon on all the sexy stuff. Consider carefully any gameplay changes because with just a couple of them you can make things either really hard or really easy. I myself don't have the balance perfect, bandits and dragons crush me but I generally walk through everything else.
 
 **Wait until no new messages appear in the top left corner!**
 
@@ -152,7 +166,13 @@ Easy peasy. Just head to the _Presets_ menu and choose _Load User Settings_
 
 ## Clockwork
 
-Unless you want to go mad, change the _Gilded Recovery Time_ to _24 Hours_
+Unless you want to go mad, change the _Gilded Recovery Time_ to _24 Hours_.
+
+A little more explanation, the robots in a certain sidequests reactivate every 3 **Game Hours** by default, and you have to do a _lot_ of backtracking. In real life terms that's about every hour. So if you don't wanna be killing a lot of the same stuff over and over, increase this number. Granted, a lot of the tension of this mod is how terrifying the Gilded are, so there's that.
+
+## Cathedral Weathers ##
+
+This is pretty much up to you, whether you like stuff to be real dark or real bright. Configure it as you see fit. I would recommend disabling the _Configuration Spell_ since all it does is clog up your magic menu. All the _World View_ stuff on the right did nothing under my previous ENB but now it works. Read the descriptions and make the Skyrim lighting you always wanted. Keep in mind, increases of only one or two points make **huge** differences.
 
 ## Complete Alchemy
 
@@ -164,7 +184,7 @@ OK, this one's annoying.
 
 Under _Recipe Display_, disable _Crafting Categories_ and _Item Type Filters_ because I haven't been able to get them right.
 
-Under _Crafting Options_, I recommend enabling _Artifact Replicas_ so you can make some truly badass stuff and _Matching Set Circlets_ so your Bijins don't have to cover their fabulous hair with ugly helmets.
+Under _Crafting Options_, set _Recipe Complexity to _Simplified_ and _Fur and Hide Recipes_ to _Generic._ _Additional Items_, I recommend enabling _Artifact Replicas_ so you can make some truly badass stuff and _Matching Set Circlets_ so your Bijins don't have to cover their fabulous hair with ugly helmets.
 
 Under _Learning & XP_, set _Tanning Rack_ to 0.2 and _Smelter_ to 0.1.
 
@@ -222,7 +242,7 @@ Just _Enable?_ and move on.
 
 ## Quick Light
 
-The brighter the better. Set _Brightness_ to _Wide_ and the hotkey to your preference, I like to have things on the Numpad so I always set it to Numpad 1.
+The brighter the better. Set _Brightness_ to your preference and the hotkey to your preference, I like to have things on the Numpad so I always set it to Numpad 1. If you turned on superdark nights and want to punish yourself to find torches have at it, I'm not stopping you, just don't set a hotkey here.
 
 ## Sacrosant Vampires
 
@@ -252,7 +272,7 @@ Just hit _Enable All_, wait for the message, then hit _Register Anims_ and wait 
 
 ## SLA Monitor Widget
 
-Configure this how you like, but I recommend setting the _Interval_ to _120 or higher_ since that's when Aroused updates and the _Scanning Range_ to _512_ to keep it from scanning everything for miles around. You might further limit it to dudes if you only have interest in them or the ladies if you're oriented that way. But if you're open-minded or nosy then scan away! I will mention this, though, on the _Widget Looks_ section you might want to change _Vertical Anchor_ to _Bottom_ so the aroused indicators won't overlap the notifications area.
+Configure this how you like, but I recommend setting the _Type of NPC_ to _Humanoids_ since without the Creature Framework there will be no values for non-humanoids. 10 Seconds for the scanning interval is insane I would set it to _120 or higher_ since that's when Aroused updates but that's pretty unresponsive, you might try _30_. Set the _Scanning Range_ to _1024_ for a balance between _HornySense_ and script load. You might further limit it to dudes if you only have interest in them or the ladies if you're oriented that way. But if you're open-minded or nosy then scan away! I will mention this, though, on the _Widget Looks_ section you might want to change _Vertical Anchor_ to _Center_ so the aroused indicators won't overlap the notifications areas.
 
 ## Storm Lighting
 
@@ -260,7 +280,7 @@ Some of my users are reporting problems with too much lightning, so set the _Pre
 
 ## The Ultimate Dodge Mod
 
-Ah, my favorite part of this mod list. Instant 8 way dodges. An **Important Note** here is that Step Dodge will _not work_ with the dodge roll animation I have installed. If you try it you will do a funky planking float in midair which is pretty funny to see but probably not why you play. Set it to  _Roll Only_ to avoid this. If you want the option to switch between roll and step like the dodge mod was designed, untick _Dodge Roll Reanimated_ in the modlist and rerun Nemesis. It's kinda tricky to use, Sneak has been moved to the Shift key and you roll dodge with Control. **None of this will work until you leave the starting cell and start the game proper.**
+Ah, my favorite part of this mod list. Instant 8 way dodges. An **Important Note** here is that Step Dodge will _not work_ with the dodge roll animation I have installed. If you try it you will do a funky planking float in midair which is pretty funny to see but probably not why you play. Set it to  _Roll Only_ to avoid this. If you still get stuck, take the advice of the bosses and hit the G key a couple times. If you want the option to switch between roll and step like the dodge mod was designed, untick _Dodge Roll Reanimated_ in the modlist and rerun Nemesis. It's kinda tricky to use, Sneak has been moved to the Shift key and you roll dodge with Control. **None of this will work until you leave the starting cell and start the game proper.**
 
 ## Trade & Barter
 
@@ -272,15 +292,13 @@ This keeps you from accumulating hundreds of thousands of gold unless you become
 
 Under _Game Balance_, disable _Speed Bonus_.
 
-Under _Others_, disable _Swing Effect_. This has been known to bug out with Nemesis and render you incapable of weapon animations.
-
 Under _NPC Setting_, set _Dodge_ to _Disable_. This is handled by TUDM.
 
 ## Wildcat
 
-Only thing you have to change here is _Allow Wildcat to Manage Difficulty_
+Only thing you have to change here is _Allow Wildcat to Manage Difficulty_ and _Disable Timed Block_. _Ultimate Combat_ already has a better Timed Block option.
 
-A note, if you find the game too easy or hard, you have to change the difficulty in the basic game settings, in Immersive Creatures, and finally in Deadly Dragons. Don't forget this. For ultimate stunlock immersion turn on full body stagger here in Wildcat. Makes getting surrounded by half a dozen greataxe wielding Gilded extra fun, and I say that from first hand experience!
+A note here about difficulty, if you find the game too easy or hard, you have to change the difficulty in the basic game settings, in Immersive Creatures, and finally in Deadly Dragons. Don't forget this. For ultimate stunlock immersion turn on full body stagger here in Wildcat. Makes getting surrounded by half a dozen greataxe wielding Gilded extra fun, and I say that from first hand experience!
 
 ## XPMSE
 
@@ -296,6 +314,6 @@ First, enable the mod, close the menu, and wait for the message.
 
 Then open the mod and under Global hit _Import Settings_
 
-Remember that you can hit the activate key people on downed (or dead) people to "defeat" them, you can sneak up behind somebody to "defeat" them with G, and you can be "defeated" yourself at any time with K. It's slow to respond at times, so if you want to see "defeat" instead of you know, play the game, do it as soon as you get surrounded. Remember -- no creatures as of now. Finally this mod is buggy at its best. If something goes wrong the LL forums might tell you to clean and reconfigure from the MCM. I don't advise that because it resets a great many Skyrim variables. If you get in some kind of freakish infinite loop or other weird scenario, first try opening the console with ` and typing "epc." If that doesn't work, reload the game, preferably after you exit it.
+I've got everything disabled but "Surrender" (which you should do as soon as you get surrounded with the _K_ key) and "Assault" (which you do by either sneaking up on them and hitting _G_ or "marking" them with _G_ and doing an unarmed power attack.) I have intervention enabled so if you do these while people are around they will _not_ just stand by and watch. You can change that before you touch the statue if you want Skyrim to be silly.
 
 # That's it! Go have fun in Sexy Skyrim!
