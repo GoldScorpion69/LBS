@@ -1,5 +1,9 @@
 ## Changelog
 
+## 0.1.4.2
+
+Switched back to Silent Horizons since I like the colors. Also made sure not to forget the files for the Skyrim folder.
+
 ### 0.1.4.1
 
 Finally got the 3BA version of Bad Dog's in here, complete with zaps for all the naughty bits. Switched to Serio - Cathedral ENB so the Cathedral Weathers MCM actually does something now. The CLARALUX Testing Facility also has a more dramatic effect if you want to stop by there to customize the lighting.

@@ -46,6 +46,8 @@ Then start the game and exit when you see the main menu (New Game, etc)
 
 First get the latest version of LBS from https://drive.google.com/drive/folders/19cui-oVdXXTHIhcl8n6wfeq9D0CJQMKR.
 
+If that site is giving bandwidth errors, try https://mega.nz/file/T4xxzApS#6507A8yoduXKQcwpC-SDM5R4njJcu00M0Z8Ai2B36Fc.
+
 Download it to wherever you keep your downloads.
 
 LBS is now fully compatible with Wabbajack 2.0.3.0, the latest version. Get it from http://wabbajack.org
@@ -170,9 +172,6 @@ Unless you want to go mad, change the _Gilded Recovery Time_ to _24 Hours_.
 
 A little more explanation, the robots in a certain sidequests reactivate every 3 **Game Hours** by default, and you have to do a _lot_ of backtracking. In real life terms that's about every hour. So if you don't wanna be killing a lot of the same stuff over and over, increase this number. Granted, a lot of the tension of this mod is how terrifying the Gilded are, so there's that.
 
-## Cathedral Weathers ##
-
-This is pretty much up to you, whether you like stuff to be real dark or real bright. Configure it as you see fit. I would recommend disabling the _Configuration Spell_ since all it does is clog up your magic menu. All the _World View_ stuff on the right did nothing under my previous ENB but now it works. Read the descriptions and make the Skyrim lighting you always wanted. Keep in mind, increases of only one or two points make **huge** differences.
 
 ## Complete Alchemy
 
