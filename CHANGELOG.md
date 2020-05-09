@@ -1,6 +1,10 @@
 ## Changelog
 
-## 0.1.4.2
+### 0.1.5.0
+
+Updates for DynDoLOD Resources and Majestic Mountains got me this time. There were also updates to Tsuki's Book of 3BBB and Eeekie's NPCs that I forgot about. Please be sure to comment on Tsuki's armors, Tsuki is a regular with us. I don't _think_ any of this will affect saves from 0.1.4.0+, it's just that any LODs you have run will have the old textures.
+
+### 0.1.4.2
 
 Switched back to Silent Horizons since I like the colors. Also made sure not to forget the files for the Skyrim folder.
 
